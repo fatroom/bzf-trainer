@@ -1,15 +1,40 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Question :question=question></Question>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Question from './components/Question.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Question
+  },
+  data() {
+    return {
+      question: {
+        text: "Which international organisation is of particular importance to the aeronautical radio service worldwide?",
+        answers: [
+          {
+            id: 1,
+            text: "ITU",
+            correct: true
+          },
+          {
+            id: 2,
+            text: "IATA"
+          },
+          {
+            id: 3,
+            text: "UNESCO"
+          },
+          {
+            id: 4,
+            text: "NATO"
+          }
+        ]
+      }
+    }
   }
 }
 </script>
