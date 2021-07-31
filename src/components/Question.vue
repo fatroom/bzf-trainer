@@ -1,6 +1,7 @@
 <template>
   <div class="question">
     <h1>{{ question.text }}</h1>
+    <img v-if="question.img" alt="Question illustration" :src="question.img">
     <ol type="A">
       <li v-for="answer of question.answers" :class="answerClass(answer.id)" :key="answer.id"
           @click="validateAnswer(answer)">

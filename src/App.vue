@@ -21,8 +21,9 @@ export default {
   },
 
   setup() {
-    const questionIdx = Math.floor(Math.random() * questions.length);
-    const question = ref(questions[questionIdx])
+    let questionIdx = Math.floor(Math.random() * questions.length);
+    let question = ref(questions[questionIdx])
+    question.value = questions[117]
     return {
       question
     }
