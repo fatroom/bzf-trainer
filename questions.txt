@@ -40,7 +40,7 @@ B  Air traffic controller
 C  Chief flying instructor at an airfield
 D  Aviation Safety Oversight Officer
 
-7.  The "Radiotelephone  Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
+7.  The "Radiotelephone Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
 
 A  in the German language within the Federal Republic of Germany
 B  in the English language for VFR flights
@@ -782,7 +782,7 @@ B  All flights in Class E airspace
 C  Night flights in Class G airspace
 D  Flights above cloud in Class E airspace
 
-113.  VFR  flights  to  controlled  aerodromes  are  governed  by  the  procedures  laid  down  in  the "Aeronautical Information Publication VFR" [VFR AIP]. Position reports over compulsory reporting points shall …
+113.  VFR flights to controlled aerodromes are governed by the procedures laid down in the "Aeronautical Information Publication VFR" [VFR AIP]. Position reports over compulsory reporting points shall …
 
 A  be made in all cases, unless expressly stated to the contrary, irrespective of the clearance given
 B  be made only in the case of special VFR flights
