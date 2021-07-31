@@ -1,10 +1,11 @@
 <template>
-  <Question :question=nextQuestion @next-question="selectNextQuestion()"></Question>
+  <Question :question=question @next-question="selectNextQuestion()"></Question>
 </template>
 
 <script>
 import Question from './components/Question.vue'
 import {ref} from 'vue'
+import questions from './data/questions.json'
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -15,54 +16,6 @@ function shuffleArray(array) {
   }
 }
 
-let questions = [
-  {
-    text: "Which international organisation is of particular importance to the aeronautical radio service worldwide?",
-    answers: [
-      {
-        id: 1,
-        text: "ITU",
-        correct: true
-      },
-      {
-        id: 2,
-        text: "IATA"
-      },
-      {
-        id: 3,
-        text: "UNESCO"
-      },
-      {
-        id: 4,
-        text: "NATO"
-      }
-    ]
-  },
-  {
-    text: "What is the legal basis for the setting-up and operation of radio installations in the Federal Republic of Germany?",
-    answers: [
-      {
-        id: 1,
-        text: "Telecommunications Act (TKG)",
-        correct: true,
-      },
-      {
-        text: "Air Traffic Act (LuftVG)",
-        id: 2,
-      },
-      {
-        text: "Convention on International Civil Aviation",
-        id: 3,
-      },
-      {
-        text: "Ordinance on the fitting of aircraft with navigational equipment",
-        id: 4,
-      }
-    ]
-  }
-]
-
-
 export default {
   name: 'App',
   components: {
@@ -70,21 +23,18 @@ export default {
   },
 
   setup() {
-    const questionIdx = ref(Math.floor(Math.random() * questions.length));
+    const questionIdx = Math.floor(Math.random() * questions.length);
+    const question = ref(questions[questionIdx])
     return {
-      questionIdx
+      question
     }
   },
-  computed: {
-    nextQuestion() {
-      return questions[this.questionIdx]
-    }
-  },
+
   methods: {
     selectNextQuestion() {
-      this.questionIdx = Math.floor(Math.random() * questions.length);
-      let question = questions[this.questionIdx]
-      shuffleArray(question.answers)
+      let questionIdx = Math.floor(Math.random() * questions.length);
+      this.question = questions[questionIdx]
+      shuffleArray(this.question.answers);
     }
   }
 }

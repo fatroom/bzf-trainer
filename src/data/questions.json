@@ -1,0 +1,5744 @@
+[
+  {
+    "text": "Which international organisation is of particular importance to the aeronautical radio service worldwide?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "ITU",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "IATA"
+      },
+      {
+        "id": 3,
+        "text": "UNESCO"
+      },
+      {
+        "id": 4,
+        "text": "NATO"
+      }
+    ]
+  },
+  {
+    "text": "What is the legal basis for the setting-up and operation of radio installations in the Federal Republic of Germany?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Telecommunications Act (TKG)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air Traffic Act (LuftVG)"
+      },
+      {
+        "id": 3,
+        "text": "Convention on International Civil Aviation"
+      },
+      {
+        "id": 4,
+        "text": "Ordinance on the fitting of aircraft with navigational equipment"
+      }
+    ]
+  },
+  {
+    "text": "Who is responsible for frequency assignments for the operation of aeronautical stations and aircraft stations in the Federal Republic of Germany?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Federal Network Agency (Bundesnetzagentur)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Federal Minister of the Interior"
+      },
+      {
+        "id": 3,
+        "text": "Aeronautical Authorities of the Lands (federal states)"
+      },
+      {
+        "id": 4,
+        "text": "Air traffic service (DFS)"
+      }
+    ]
+  },
+  {
+    "text": "Who requires an operator's certificate to conduct radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Sport pilot in Class D airspace",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Student pilot on board a training aircraft in the traffic circuit at an uncontrolled aerodrome"
+      },
+      {
+        "id": 3,
+        "text": "Operator of an aeronautical station used exclusively for transmitting flight regularity messages"
+      },
+      {
+        "id": 4,
+        "text": "Student pilot on board a training aircraft in the traffic circuit at a controlled aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "Who does not need an operator's certificate to perform radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Operator of a radio station with the call sign \"RETRIEVER (R\u00dcCKHOLER)\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air traffic controller"
+      },
+      {
+        "id": 3,
+        "text": "Chief flying instructor at glider sites"
+      },
+      {
+        "id": 4,
+        "text": "Sport pilot in Class C airspace"
+      }
+    ]
+  },
+  {
+    "text": "Who does not need an operator's certificate to perform radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Student pilot in the traffic circuit of aerodromes with controlled/uncontrolled air traffic control",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air traffic controller"
+      },
+      {
+        "id": 3,
+        "text": "Chief flying instructor at an airfield"
+      },
+      {
+        "id": 4,
+        "text": "Aviation Safety Oversight Officer"
+      }
+    ]
+  },
+  {
+    "text": "The",
+    "answers": [
+      {
+        "id": 1,
+        "text": "in the German language within the Federal Republic of Germany",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "in the English language for VFR flights"
+      },
+      {
+        "id": 3,
+        "text": "for IFR flights"
+      },
+      {
+        "id": 4,
+        "text": "in the German and English language at any German aeronautical station"
+      }
+    ]
+  },
+  {
+    "text": "The \"Radiotelephone Operator's Restricted Certificate (BZF II)\" entitles its holder to perform radiotelephony communication \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "in the German language for VFR flights within the Federal Republic of Germany",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "in the English language for VFR flights within the Federal Republic of Germany"
+      },
+      {
+        "id": 3,
+        "text": "for IFR flights"
+      },
+      {
+        "id": 4,
+        "text": "in any of the ICAO languages for VFR flights"
+      }
+    ]
+  },
+  {
+    "text": "Which operator's certificate is required to perform radiotelephony communication in German and English during a VFR flight?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "BZF I",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "BZF II"
+      },
+      {
+        "id": 3,
+        "text": "No operator's certificate required since it is a VFR flight"
+      },
+      {
+        "id": 4,
+        "text": "No operator's certificate required if the flight instructor has issued a written flight order"
+      }
+    ]
+  },
+  {
+    "text": "What is an aircraft station? A station \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "of the aeronautical mobile service on board an aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "on board an aircraft carrier"
+      },
+      {
+        "id": 3,
+        "text": "of the aeronautical mobile service at an international airport"
+      },
+      {
+        "id": 4,
+        "text": "of the aeronautical mobile service at an airfield"
+      }
+    ]
+  },
+  {
+    "text": "What is an aeronautical station?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Land station in the aeronautical mobile service. In certain instances it may be located on board ship or on a platform at sea",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Station of the aeronautical fixed telecommunication service"
+      },
+      {
+        "id": 3,
+        "text": "Any station used to exchange radio messages"
+      },
+      {
+        "id": 4,
+        "text": "Station of the aeronautical telecommunication service located on land or on board a ship for the exchange of radio messages"
+      }
+    ]
+  },
+  {
+    "text": "What does the term \"BLIND TRANSMISSION\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Transmission of a message to a receiving station in cases where two-way radio communication cannot be established but on the assumption that the called station is able to receive the message",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Transmission of meteorological and flight operational information to aircraft over the high seas or deserts beyond the radio coverage of VHF aeronautical stations"
+      },
+      {
+        "id": 3,
+        "text": "Transmission of aeronautical information that is not addressed to a specific receiving station"
+      },
+      {
+        "id": 4,
+        "text": "Radio message to be repeated by the receiving station"
+      }
+    ]
+  },
+  {
+    "text": "What does the term \"GENERAL CALL\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Transmission of aeronautical information which is not intended for one or more specific stations",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Transmission of reports on meteorological phenomena which could affect the safety of flight operations, intended for one or more specific stations"
+      },
+      {
+        "id": 3,
+        "text": "Communication whose receipt has to be acknowledged"
+      },
+      {
+        "id": 4,
+        "text": "Radiotelephony communication from an aeronautical station to a specific aircraft station"
+      }
+    ]
+  },
+  {
+    "text": "What does the term \"HOLDING POINT\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "A designated position intended to protect a runway, an obstacle limitation surface at which taxiing aircraft and vehicles shall stop and hold",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Unmarked position in the parking area for general aviation"
+      },
+      {
+        "id": 3,
+        "text": "Marked position on a runway where the take-off run is commenced"
+      },
+      {
+        "id": 4,
+        "text": "Marked parking area on the apron of a commercial airport"
+      }
+    ]
+  },
+  {
+    "text": "Which abbreviation is used for the term \"CONTROL ZONE\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "CTR",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "CZ"
+      },
+      {
+        "id": 3,
+        "text": "CTZ"
+      },
+      {
+        "id": 4,
+        "text": "CTA"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"IMC\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Instrument Meteorological Conditions",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Visual Meteorological Conditions"
+      },
+      {
+        "id": 3,
+        "text": "Instrument Flight"
+      },
+      {
+        "id": 4,
+        "text": "Visual Flight"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"FIR\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flight Information Region",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Flight Information Radar"
+      },
+      {
+        "id": 3,
+        "text": "Flight Information Requested"
+      },
+      {
+        "id": 4,
+        "text": "Flight Information Received"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"H24\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Continuous day and night service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Sunset to sunrise"
+      },
+      {
+        "id": 3,
+        "text": "No specific working hours"
+      },
+      {
+        "id": 4,
+        "text": "Altitude 2400 feet"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"HX\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "No specific working hours",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Altitude not specified"
+      },
+      {
+        "id": 3,
+        "text": "Sunrise to sunset"
+      },
+      {
+        "id": 4,
+        "text": "Continuous day and night service"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"HJ\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Sunrise to sunset",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "No specific working hours"
+      },
+      {
+        "id": 3,
+        "text": "Sunset to sunrise"
+      },
+      {
+        "id": 4,
+        "text": "Continuous day and night service"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"AIS\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Aeronautical Information Services",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Airport Information System"
+      },
+      {
+        "id": 3,
+        "text": "General Information Centre"
+      },
+      {
+        "id": 4,
+        "text": "All-weather Information System"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"SAR\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Search and Rescue",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "\"STOP AT THE TAXI HOLDING POINT\""
+      },
+      {
+        "id": 3,
+        "text": "Secondary Approach Radar"
+      },
+      {
+        "id": 4,
+        "text": "Standard Approach Route"
+      }
+    ]
+  },
+  {
+    "text": "Which abbreviation is used for the term \"COORDINATED UNIVERSAL TIME\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "UTC",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "GMT"
+      },
+      {
+        "id": 3,
+        "text": "Z time"
+      },
+      {
+        "id": 4,
+        "text": "CUT"
+      }
+    ]
+  },
+  {
+    "text": "What does the abbreviation \"ATIS\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Automatic Terminal Information Service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air Traffic Information Service"
+      },
+      {
+        "id": 3,
+        "text": "Airport Terminal Information Service"
+      },
+      {
+        "id": 4,
+        "text": "Automatic Information System"
+      }
+    ]
+  },
+  {
+    "text": "What does the Q Code \"QFE\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Atmospheric pressure at aerodrome elevation or at runway threshold",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Atmospheric pressure in reference to a point on the surface of Earth"
+      },
+      {
+        "id": 3,
+        "text": "Atmospheric pressure in reference to the highest fixed obstacle at an aerodrome"
+      },
+      {
+        "id": 4,
+        "text": "Altimeter sub-scale setting to obtain elevation when on ground"
+      }
+    ]
+  },
+  {
+    "text": "What does the Q Code \"QNH\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Altimeter sub-scale setting to obtain aerodrome elevation when on the ground",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Atmospheric pressure at aerodrome elevation or at runway threshold"
+      },
+      {
+        "id": 3,
+        "text": "Atmospheric pressure measured at the aerodrome reference point"
+      },
+      {
+        "id": 4,
+        "text": "Atmospheric pressure in reference to the highest obstacle at an aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "If you want the altimeter to indicate the altitude above MSL, which atmospheric pressure shall the altimeter be set to?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QNH",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QFE"
+      },
+      {
+        "id": 3,
+        "text": "QUJ"
+      },
+      {
+        "id": 4,
+        "text": "QDM"
+      }
+    ]
+  },
+  {
+    "text": "If you want the altimeter to indicate the height above aerodrome, which atmospheric pressure shall the altimeter be set to?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QFE",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QDR"
+      },
+      {
+        "id": 3,
+        "text": "QNH"
+      },
+      {
+        "id": 4,
+        "text": "QTE"
+      }
+    ]
+  },
+  {
+    "text": "What does the Q Code \"QDM\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Magnetic heading to the station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "True bearing from the station"
+      },
+      {
+        "id": 3,
+        "text": "Magnetic bearing from the station"
+      },
+      {
+        "id": 4,
+        "text": "True heading to the station (zero wind)"
+      }
+    ]
+  },
+  {
+    "text": "What is the Q Code for \"MAGNETIC HEADING TO THE STATION\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QDM",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QNE"
+      },
+      {
+        "id": 3,
+        "text": "QDR"
+      },
+      {
+        "id": 4,
+        "text": "QTE"
+      }
+    ]
+  },
+  {
+    "text": "What does the Q Code \"QDR\" mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Magnetic bearing from the station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Magnetic heading to the station (zero wind)"
+      },
+      {
+        "id": 3,
+        "text": "True bearing/position line from the station"
+      },
+      {
+        "id": 4,
+        "text": "True heading to the station"
+      }
+    ]
+  },
+  {
+    "text": "What is the Q Code for \"MAGNETIC BEARING FROM THE STATION\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QDR",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QDM"
+      },
+      {
+        "id": 3,
+        "text": "QTE"
+      },
+      {
+        "id": 4,
+        "text": "QFE"
+      }
+    ]
+  },
+  {
+    "text": "What are Messages Relating to Direction Finding? Messages which \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "transmit QDM values",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "relate to the failure of radio navigation equipment on board an aircraft"
+      },
+      {
+        "id": 3,
+        "text": "transmit QNH values"
+      },
+      {
+        "id": 4,
+        "text": "relate to the failure of radio navigation equipment on the ground"
+      }
+    ]
+  },
+  {
+    "text": "In order of priority, which type of message precedes a Flight Safety Message?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Messages Relating to Direction Finding",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "State Telegram"
+      },
+      {
+        "id": 3,
+        "text": "Meteorological Message"
+      },
+      {
+        "id": 4,
+        "text": "Flight Regularity Message"
+      }
+    ]
+  },
+  {
+    "text": "Messages transmitted while performing air traffic control are \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flight Safety Messages",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Messages Relating to Direction Finding"
+      },
+      {
+        "id": 3,
+        "text": "Flight Regularity Messages"
+      },
+      {
+        "id": 4,
+        "text": "Urgency Messages"
+      }
+    ]
+  },
+  {
+    "text": "A message concerning the safety of an aircraft, any other vehicle or person on board is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "an Urgency Message",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "a Flight Regularity Message"
+      },
+      {
+        "id": 3,
+        "text": "a Distress Message"
+      },
+      {
+        "id": 4,
+        "text": "a Flight Safety Message"
+      }
+    ]
+  },
+  {
+    "text": "A message concerning aircraft parts urgently required is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "a Flight Regularity Message",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "an Urgency Message"
+      },
+      {
+        "id": 3,
+        "text": "a Flight Safety Message"
+      },
+      {
+        "id": 4,
+        "text": "an Air Traffic Control Message"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following messages are authorized in the aeronautical mobile service?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Messages Relating to Direction Finding",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Administrative Messages from the Aeronautical Authorities of the Lands (federal states)"
+      },
+      {
+        "id": 3,
+        "text": "Messages from aircraft operators"
+      },
+      {
+        "id": 4,
+        "text": "Teletype Messages"
+      }
+    ]
+  },
+  {
+    "text": "A pilot's message to the control tower \"ESTIMATED TIME OF ARRIVAL 1206, PLEASE CALL ME A TAXI\" is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "an unauthorized message in the aeronautical mobile service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "an Urgency Message"
+      },
+      {
+        "id": 3,
+        "text": "a Flight Safety Message"
+      },
+      {
+        "id": 4,
+        "text": "a Flight Regularity Message"
+      }
+    ]
+  },
+  {
+    "text": "A pilot's message to the ATC service \"REQUEST RADAR VECTORING TO CIRCUMFLY THE THUNDERSTORM\" is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "a Flight Safety Message",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "a Meteorological Message"
+      },
+      {
+        "id": 3,
+        "text": "an Urgency Message"
+      },
+      {
+        "id": 4,
+        "text": "a Message Relating to Direction Finding"
+      }
+    ]
+  },
+  {
+    "text": "The clearance \"RUNWAY 05, CLEARED FOR TAKE-OFF\" is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "a Flight Safety Message",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "an unauthorized message"
+      },
+      {
+        "id": 3,
+        "text": "an Urgency Message"
+      },
+      {
+        "id": 4,
+        "text": "a Flight Regularity Message"
+      }
+    ]
+  },
+  {
+    "text": "The priority of a pilot\u2019s message \"REQUEST QDM\" is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "higher than \"CLEARED FOR TAKE-OFF\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "lower than \"REQUEST QNH\""
+      },
+      {
+        "id": 3,
+        "text": "lower than \"CLIMB FLIGHT LEVEL 85\""
+      },
+      {
+        "id": 4,
+        "text": "same as \"RUNWAY 32, CLEARED TO LAND\""
+      }
+    ]
+  },
+  {
+    "text": "The priority of the instruction \"TAXI TO HOLDING POINT RUNWAY 12 VIA C\" is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "same as \"LINE UP RUNWAY 05 AND WAIT\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "lower than \"CLEARED TO LAND\""
+      },
+      {
+        "id": 3,
+        "text": "higher than \"TRANSMIT FOR BEARING\""
+      },
+      {
+        "id": 4,
+        "text": "higher than \"CAUTION CONSTRUCTION WORK LEFT OF TAXIWAY G\""
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of transmitting the time in the aeronautical radio service if there is no possibility of confusion?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Minutes, two digits",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Hours and minutes"
+      },
+      {
+        "id": 3,
+        "text": "Minutes and seconds"
+      },
+      {
+        "id": 4,
+        "text": "At discretion"
+      }
+    ]
+  },
+  {
+    "text": "Numbers shall always be transmitted as single digits. Excepted from this regulation are \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "bearings in terms of the 12-hour clock in case of traffic information",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "designation of runways"
+      },
+      {
+        "id": 3,
+        "text": "wind directions"
+      },
+      {
+        "id": 4,
+        "text": "headings"
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of spelling the call sign DIJYF?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DELTA INDIA JULIETT YANKEE FOXTROT",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DELTA YULIETT INDIA JANKEE FOXTROT"
+      },
+      {
+        "id": 3,
+        "text": "DELTA INDIA JULIETT YANKEE FOX"
+      },
+      {
+        "id": 4,
+        "text": "DELTA INDIA JANKEE YULIETT FOXTROT"
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of transmitting the number 4500?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "four thousand five hundred",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "four five hundred"
+      },
+      {
+        "id": 3,
+        "text": "four five zero zero"
+      },
+      {
+        "id": 4,
+        "text": "four thousand five zero zero"
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of transmitting \"QNH 1001\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QNH one zero zero one",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QNH one thousand one"
+      },
+      {
+        "id": 3,
+        "text": "QNH one nought nought one"
+      },
+      {
+        "id": 4,
+        "text": "QNH one thousand and one"
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of transmitting the VHF frequency 120.275 MHz?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "one two zero decimal two seven five",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "one twenty decimal two seven"
+      },
+      {
+        "id": 3,
+        "text": "one two zero decimal two seven"
+      },
+      {
+        "id": 4,
+        "text": "one two zero two seven five"
+      }
+    ]
+  },
+  {
+    "text": "What is the correct way of transmitting the time 1318 in order to avoid any error or confusion?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "one three one eight",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "thirteen one eight"
+      },
+      {
+        "id": 3,
+        "text": "thirteen eighteen"
+      },
+      {
+        "id": 4,
+        "text": "one eight past thirteen hours"
+      }
+    ]
+  },
+  {
+    "text": "What is the call sign of an aeronautical station at a controlled aerodrome for air traffic control on the manoeuvring area?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "GROUND",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "INFORMATION"
+      },
+      {
+        "id": 3,
+        "text": "RADAR"
+      },
+      {
+        "id": 4,
+        "text": "TOWER"
+      }
+    ]
+  },
+  {
+    "text": "What is the call sign of an aeronautical station at a controlled aerodrome for air traffic control in the traffic circuit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "TOWER",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "RETRIEVER (R\u00dcCKHOLER)"
+      },
+      {
+        "id": 3,
+        "text": "APRON"
+      },
+      {
+        "id": 4,
+        "text": "INFORMATION"
+      }
+    ]
+  },
+  {
+    "text": "The call signs of German aeronautical stations at an uncontrolled airfield comprise the name of the airfield plus the term:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "INFO",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "AIR SUPERVISION (LUFTAUFSICHT)"
+      },
+      {
+        "id": 3,
+        "text": "TOWER (TURM)"
+      },
+      {
+        "id": 4,
+        "text": "AIR TRAFFIC CONTROL (FLUGLEITUNG)"
+      }
+    ]
+  },
+  {
+    "text": "The call signs of German aeronautical stations at gliding sites comprise the name of the gliding site plus the term:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "GLIDER ACTIVITY",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "INFO"
+      },
+      {
+        "id": 3,
+        "text": "GROUND"
+      },
+      {
+        "id": 4,
+        "text": "INFORMATION"
+      }
+    ]
+  },
+  {
+    "text": "The call sign the air traffic service uses for the Flight Information Service is:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "INFORMATION",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "RADIO"
+      },
+      {
+        "id": 3,
+        "text": "INFO"
+      },
+      {
+        "id": 4,
+        "text": "FLIGHT INFORMATION"
+      }
+    ]
+  },
+  {
+    "text": "What is obtained from an aeronautical station with the call sign \"INFORMATION\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Aerodrome weather",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Taxiing instructions"
+      },
+      {
+        "id": 3,
+        "text": "Landing clearances"
+      },
+      {
+        "id": 4,
+        "text": "Take-off clearances"
+      }
+    ]
+  },
+  {
+    "text": "When may the call sign of the aeronautical station be omitted in radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "After the establishing of voice communication",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "When the aircraft is in the traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "In any radiotelephony call"
+      },
+      {
+        "id": 4,
+        "text": "If confusion with any other aircraft station is ruled out"
+      }
+    ]
+  },
+  {
+    "text": "The call signs of German aircraft stations comprise \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the characters of the registration mark of the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the aircraft type designator and the last three characters of the registration mark"
+      },
+      {
+        "id": 3,
+        "text": "the flight number combined with the registration mark"
+      },
+      {
+        "id": 4,
+        "text": "the letter \"D\" and another three letters"
+      }
+    ]
+  },
+  {
+    "text": "An aircraft shall not change the type of its radiotelephony call sign during flight, except temporarily \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "on the instruction of an ATC unit in the interests of safety",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "for powered gliders when changing from powered flight to gliding"
+      },
+      {
+        "id": 3,
+        "text": "at the request of the pilot"
+      },
+      {
+        "id": 4,
+        "text": "if the IFR flight plan is cancelled and the flight continues under VFR"
+      }
+    ]
+  },
+  {
+    "text": "The abbreviated call sign of an aircraft station comprises \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the first character of the registration and at least the last two characters of the call sign",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the last three characters of the call sign"
+      },
+      {
+        "id": 3,
+        "text": "the last two characters of the registration mark"
+      },
+      {
+        "id": 4,
+        "text": "the aircraft type designator combined with the last character of the call sign"
+      }
+    ]
+  },
+  {
+    "text": "When shall an aircraft station use its abbreviated call sign?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "If it has already been used by the aeronautical station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Only for flights in a traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "In any radiotelephony call"
+      },
+      {
+        "id": 4,
+        "text": "After establishment of radiotelephony contact with an aeronautical station"
+      }
+    ]
+  },
+  {
+    "text": "With which air traffic service can a pilot establish radio contact during a flight in Class C airspace?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Air Traffic Control Service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air Navigation Service"
+      },
+      {
+        "id": 3,
+        "text": "Aeronautical Telecommunication Service"
+      },
+      {
+        "id": 4,
+        "text": "Aeronautical Information Service"
+      }
+    ]
+  },
+  {
+    "text": "With which air traffic service can radio contact be established during flight?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flight Information Service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Aeronautical Telecommunication Service"
+      },
+      {
+        "id": 3,
+        "text": "Air Navigation Service"
+      },
+      {
+        "id": 4,
+        "text": "Aeronautical Information Service"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used if the call sign of the calling station is not understood?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "SAY AGAIN YOUR CALL SIGN",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "MONITOR YOUR CALL SIGN"
+      },
+      {
+        "id": 3,
+        "text": "VERIFY YOUR CALL SIGN"
+      },
+      {
+        "id": 4,
+        "text": "CONFIRM YOUR CALL SIGN"
+      }
+    ]
+  },
+  {
+    "text": "A message is not completely repeated by a pilot, although this is required by the message type. Which phrase is used to request the pilot to repeat the message?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "READ BACK",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "GO AHEAD"
+      },
+      {
+        "id": 3,
+        "text": "CONFIRM"
+      },
+      {
+        "id": 4,
+        "text": "SAY AGAIN"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used for \"YES\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "AFFIRM",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "ROGER"
+      },
+      {
+        "id": 3,
+        "text": "CORRECT"
+      },
+      {
+        "id": 4,
+        "text": "THAT\u2019S CORRECT"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used for \"PERMISSION NOT GRANTED\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "NEGATIVE",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "FALSE"
+      },
+      {
+        "id": 3,
+        "text": "INCORRECT"
+      },
+      {
+        "id": 4,
+        "text": "NO"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used for \"I HAVE RECEIVED ALL OF YOUR LAST TRANSMISSION\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "ROGER",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "AFFIRM"
+      },
+      {
+        "id": 3,
+        "text": "WILL COMPLY"
+      },
+      {
+        "id": 4,
+        "text": "WILCO"
+      }
+    ]
+  },
+  {
+    "text": "The content of a clearly understandable message appears doubtful to you. Which phrase do you use to dispel the doubt?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "CONFIRM",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "READ BACK"
+      },
+      {
+        "id": 3,
+        "text": "SAY AGAIN"
+      },
+      {
+        "id": 4,
+        "text": "CORRECTION"
+      }
+    ]
+  },
+  {
+    "text": "The altimeter is set to 1013.2 hPa and reads 7500 feet. The aeronautical station requests the current level of the aircraft. What shall be the pilot's answer?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "FL 75",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "7500 ft"
+      },
+      {
+        "id": 3,
+        "text": "7500 ft AGL"
+      },
+      {
+        "id": 4,
+        "text": "7500 ft AMSL"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used to say \"AN ERROR HAS BEEN MADE IN THIS TRANSMISSION\"? THE CORRECT VERSION IS \u2026\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QNH 1003 CORRECTION QNH 1002",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QNH 1003 BREAK BREAK 1002"
+      },
+      {
+        "id": 3,
+        "text": "QNH 1003 NEGATIVE QNH 1002"
+      },
+      {
+        "id": 4,
+        "text": "QNH 1003 I SAY AGAIN 1002"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used for \"AUTHORIZATION TO PROCEED UNDER CONDITIONS SPECIFIED\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "CLEARED",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "AFFIRM"
+      },
+      {
+        "id": 3,
+        "text": "APPROVED"
+      },
+      {
+        "id": 4,
+        "text": "CORRECT"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used to instruct a pilot to set the transponder to a specific mode/code?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "SQUAWK",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "OPERATE YOUR TRANSPONDER"
+      },
+      {
+        "id": 3,
+        "text": "TRANSPOND"
+      },
+      {
+        "id": 4,
+        "text": "RESPOND MODE .\u2026/CODE \u2026."
+      }
+    ]
+  },
+  {
+    "text": "The phrase \"WILCO\" means:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "I understand your message and will comply with it",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Wait and I will call you"
+      },
+      {
+        "id": 3,
+        "text": "I have received all of your last transmission"
+      },
+      {
+        "id": 4,
+        "text": "I repeat for clarity or emphasis"
+      }
+    ]
+  },
+  {
+    "text": "The phrase \"MONITOR\" means:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Listen out on (frequency/channel)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Consider that transmission as not sent"
+      },
+      {
+        "id": 3,
+        "text": "Establish radio contact with (station)"
+      },
+      {
+        "id": 4,
+        "text": "Let me know that you have received and understood this message"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used by a pilot to acknowledge the control tower\u2019s instruction: \"GO AROUND, RUNWAY BLOCKED\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "GOING AROUND",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "ROGER"
+      },
+      {
+        "id": 3,
+        "text": "WILCO"
+      },
+      {
+        "id": 4,
+        "text": "AFFIRM"
+      }
+    ]
+  },
+  {
+    "text": "Which phrase shall be used by a pilot to acknowledge the instruction \"DEKMG HOLD POSITION CANCEL TAKE-OFF, I SAY AGAIN CANCEL TAKE-OFF\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DEKMG HOLDING",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DEKMG ROGER"
+      },
+      {
+        "id": 3,
+        "text": "DEKMG"
+      },
+      {
+        "id": 4,
+        "text": "DEKMG AFFIRM"
+      }
+    ]
+  },
+  {
+    "text": "DEHOL receives clearance for take-off on runway 24. How shall the pilot acknowledge the clearance?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DEHOL RUNWAY 24 CLEARED FOR TAKE-OFF",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DEHOL CLEARED FOR TAKE-OFF"
+      },
+      {
+        "id": 3,
+        "text": "DEHOL WILCO"
+      },
+      {
+        "id": 4,
+        "text": "DEHOL I AM TAKING OFF"
+      }
+    ]
+  },
+  {
+    "text": "DEKUL has completed take-off preparations. Which phrase shall be used by the pilot to inform the TOWER?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DEKUL READY FOR DEPARTURE",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DEKUL CLEARED FOR TAKE-OFF"
+      },
+      {
+        "id": 3,
+        "text": "DEKUL READY FOR TAKE-OFF"
+      },
+      {
+        "id": 4,
+        "text": "DEKUL TAKING OFF"
+      }
+    ]
+  },
+  {
+    "text": "What does the instruction \"(call sign) SQUAWK 1352\" from an ATC unit mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Switch transponder to Mode/Code 1352",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Count 1-3-5-2 for radio bearing"
+      },
+      {
+        "id": 3,
+        "text": "Request test transmission on frequency 135.200 MHz"
+      },
+      {
+        "id": 4,
+        "text": "Switch to frequency 135.200"
+      }
+    ]
+  },
+  {
+    "text": "If you receive a report from radar control \"UNKNOWN TRAFFIC AT TEN O\u2019CLOCK, DISTANCE 4 MILES\", where is the traffic in relation to your cockpit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Ahead to the left",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Abeam to the right"
+      },
+      {
+        "id": 3,
+        "text": "Ahead to the right"
+      },
+      {
+        "id": 4,
+        "text": "Directly ahead"
+      }
+    ]
+  },
+  {
+    "text": "When shall an initial call be transmitted?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "On establishing radio contact",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Only in emergencies"
+      },
+      {
+        "id": 3,
+        "text": "If message has not been understood"
+      },
+      {
+        "id": 4,
+        "text": "In any radiotelephony communication"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following examples is an initial call?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "AACHEN INFO DELID",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "SAARBR\u00dcCKEN TOWER, THIS IS DIAMK"
+      },
+      {
+        "id": 3,
+        "text": "HAMBURG TOWER FROM DEMIL, GO AHEAD"
+      },
+      {
+        "id": 4,
+        "text": "GLIDER D2468 FOR WASSERKUPPE, HOW DO YOU READ?"
+      }
+    ]
+  },
+  {
+    "text": "Does a \"GENERAL CALL\" require acknowledgement?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "No",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Yes, but only by the first pilot called"
+      },
+      {
+        "id": 3,
+        "text": "Yes, by all pilots in any sequence"
+      },
+      {
+        "id": 4,
+        "text": "Yes, by all pilots in the sequence called"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following radiotelephony calls is a \"GENERAL CALL\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "ALL STATIONS",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DEKOF, DIEBS, DKARL"
+      },
+      {
+        "id": 3,
+        "text": "D8765"
+      },
+      {
+        "id": 4,
+        "text": "LUFTHANSA 123, LUFTHANSA 456"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following calls is a \"MULTIPLE CALL\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DEABC, DGIAL, DHHIA",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DIENO DELLW"
+      },
+      {
+        "id": 3,
+        "text": "ALL STATIONS"
+      },
+      {
+        "id": 4,
+        "text": "DEAMM"
+      }
+    ]
+  },
+  {
+    "text": "Does a \"MULTIPLE CALL\" require acknowledgement?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Yes, in the sequence used by the calling station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Yes, in any sequence"
+      },
+      {
+        "id": 3,
+        "text": "No"
+      },
+      {
+        "id": 4,
+        "text": "Yes, but only by the first calling station"
+      }
+    ]
+  },
+  {
+    "text": "A pilot receives a radiotelephony call but is uncertain whether they have been called. What is the correct procedure to be followed? The pilot shall \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "wait until the call is repeated",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "transmit their own call sign and wait"
+      },
+      {
+        "id": 3,
+        "text": "transmit their own call sign using the phrase \"SAY AGAIN YOUR CALL SIGN\""
+      },
+      {
+        "id": 4,
+        "text": "answer by using the phrase \"SAY AGAIN\""
+      }
+    ]
+  },
+  {
+    "text": "What shall be taken into account before radiotelephony communication is commenced?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "After selecting the correct frequency, the pilot shall ensure that no interference is caused to any ongoing radiotelephony communication",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "A radio check shall have been carried out first"
+      },
+      {
+        "id": 3,
+        "text": "The aircraft shall be airborne"
+      },
+      {
+        "id": 4,
+        "text": "The distance between the aeronautical station and the aircraft station shall not be less than 30 NM"
+      }
+    ]
+  },
+  {
+    "text": "Before entering Class C airspace below FL 100 in the vicinity of commercial airports, when is the latest permissible time for establishing radiotelephony communication with the competent ATC unit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "5 minutes prior to entering this airspace",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Upon entering the airspace"
+      },
+      {
+        "id": 3,
+        "text": "Immediately after take-off"
+      },
+      {
+        "id": 4,
+        "text": "Above 3500 ft AGL"
+      }
+    ]
+  },
+  {
+    "text": "Radiotelephony communication during VFR flights at and above Flight Level 100 is performed in \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the English language",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the German language"
+      },
+      {
+        "id": 3,
+        "text": "any of the ICAO languages"
+      },
+      {
+        "id": 4,
+        "text": "the German or English language"
+      }
+    ]
+  },
+  {
+    "text": "DGIGA receives the instruction to call HAMBURG TOWER on frequency 121.280 MHz. What is the correct confirmation by the pilot?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DGIGA contact 121.280",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DGIGA changing frequency"
+      },
+      {
+        "id": 3,
+        "text": "DGIGA will call TOWER DGIGA"
+      },
+      {
+        "id": 4,
+        "text": "HAMBURG TOWER DGIGA"
+      }
+    ]
+  },
+  {
+    "text": "A continuous air-ground voice communication watch shall be maintained during VFR flights in airspace(s):",
+    "answers": [
+      {
+        "id": 1,
+        "text": "C and D",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "D only"
+      },
+      {
+        "id": 3,
+        "text": "E"
+      },
+      {
+        "id": 4,
+        "text": "E and D"
+      }
+    ]
+  },
+  {
+    "text": "A pilot flies an aircraft under VFR in the traffic circuit of a controlled aerodrome. What shall the pilot always be obliged to do?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Maintain a continuous air-ground voice communication watch on the aerodrome control frequency",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Transmit a position report at every leg of the traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "Request a meteorological briefing"
+      },
+      {
+        "id": 4,
+        "text": "Always file a flight plan before commencement of the flight"
+      }
+    ]
+  },
+  {
+    "text": "Which types of flight do not require maintain continuous air-ground voice communication watch? In the case of VFR flights, \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "at night in Class G airspace (outside RMZ)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "at night in Class C airspace (outside the vicinity of the aerodrome)"
+      },
+      {
+        "id": 3,
+        "text": "at night in Class D airspace (outside the vicinity of the aerodrome)"
+      },
+      {
+        "id": 4,
+        "text": "at night in Class E airspace (outside the vicinity of the aerodrome)"
+      }
+    ]
+  },
+  {
+    "text": "Which VFR flights require a pilot to maintain a continuous air-ground voice communication watch on the assigned frequency?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flights in Class C airspace",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Flights in Class F airspace"
+      },
+      {
+        "id": 3,
+        "text": "Flights in Class E airspace (outside RMZ)"
+      },
+      {
+        "id": 4,
+        "text": "Flights in Class G airspace (outside RMZ)"
+      }
+    ]
+  },
+  {
+    "text": "A person operating an aircraft on a controlled aerodrome or in its vicinity is obliged, inter alia, to obtain by radio or visual signs prior permission for all movements \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "preparatory to or associated with taxiing, take-off and landing",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "preparatory to take-off and landing"
+      },
+      {
+        "id": 3,
+        "text": "preparatory to taxiing, take-off and landing"
+      },
+      {
+        "id": 4,
+        "text": "preparatory to or associated with take-off and landing"
+      }
+    ]
+  },
+  {
+    "text": "A person operating an aircraft under VFR on a controlled aerodrome or in its vicinity shall be obliged to \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "maintain a continuous air-ground voice communication watch on the appropriate frequency, or, if this is not possible, pay attention to instructions given by light and ground signals or signs",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "transmit a position report at every leg of the traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "always file a flight plan before commencement of the flight"
+      },
+      {
+        "id": 4,
+        "text": "request a meteorological and an AIS briefing"
+      }
+    ]
+  },
+  {
+    "text": "In a radio check, what does the message \"READ YOU TWO\" mean? The radio check is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "readable now and then",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "readable but with difficulty"
+      },
+      {
+        "id": 3,
+        "text": "readable"
+      },
+      {
+        "id": 4,
+        "text": "perfectly readable"
+      }
+    ]
+  },
+  {
+    "text": "In a radio check, what does the message \"READ YOU THREE\" mean? The radio check is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "readable but with difficulty",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "readable now and then"
+      },
+      {
+        "id": 3,
+        "text": "readable"
+      },
+      {
+        "id": 4,
+        "text": "perfectly readable"
+      }
+    ]
+  },
+  {
+    "text": "In a radio check, what does the message \"READ YOU FOUR\" mean? The radio check is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "readable",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "readable but with difficulty"
+      },
+      {
+        "id": 3,
+        "text": "unreadable"
+      },
+      {
+        "id": 4,
+        "text": "perfectly readable"
+      }
+    ]
+  },
+  {
+    "text": "In a radio check, what does the message \"READ YOU FIVE\" mean? The radio check is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "perfectly readable",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "unreadable"
+      },
+      {
+        "id": 3,
+        "text": "readable now and then"
+      },
+      {
+        "id": 4,
+        "text": "readable but with difficulty"
+      }
+    ]
+  },
+  {
+    "text": "A radio check is \"readable\". How is this expressed in radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Read you four",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Read you three"
+      },
+      {
+        "id": 3,
+        "text": "Read you loud and clear"
+      },
+      {
+        "id": 4,
+        "text": "Read you"
+      }
+    ]
+  },
+  {
+    "text": "A radio check is \"readable but with difficulty\". How is this expressed in radiotelephony communication?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Read you three",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Read you"
+      },
+      {
+        "id": 3,
+        "text": "Read you two"
+      },
+      {
+        "id": 4,
+        "text": "Read you, GO AHEAD"
+      }
+    ]
+  },
+  {
+    "text": "What shall be included in a test transmission?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The words \"RADIO CHECK\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The words \" TRANSMISSION CHECK\""
+      },
+      {
+        "id": 3,
+        "text": "The words \"TEST CHECK\""
+      },
+      {
+        "id": 4,
+        "text": "The words \"CHECK CHECK\""
+      }
+    ]
+  },
+  {
+    "text": "Which message shall a pilot repeat?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "CLEARED FOR TAKE-OFF",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "CAUTION OPPOSITE-DIRECTION HELICOPTER"
+      },
+      {
+        "id": 3,
+        "text": "CONSTRUCTION WORK LEFT OF RUNWAY"
+      },
+      {
+        "id": 4,
+        "text": "SEVERE THUNDERSTORMS IN RHINE VALLEY NEAR MANNHEIM"
+      }
+    ]
+  },
+  {
+    "text": "Which messages shall be repeated?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Altimeter settings",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Traffic information"
+      },
+      {
+        "id": 3,
+        "text": "Meteorological messages"
+      },
+      {
+        "id": 4,
+        "text": "Messages on runway condition"
+      }
+    ]
+  },
+  {
+    "text": "Which messages shall be repeated?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Frequency in the case of a frequency change",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Information concerning construction work on runways"
+      },
+      {
+        "id": 3,
+        "text": "Meteorological information"
+      },
+      {
+        "id": 4,
+        "text": "Wind direction and force"
+      }
+    ]
+  },
+  {
+    "text": "How shall the receipt of an ATC clearance be acknowledged?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "By reading back the clearances in full",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "By pressing the microphone switch twice"
+      },
+      {
+        "id": 3,
+        "text": "By transmitting one\u2019s own abbreviated call sign"
+      },
+      {
+        "id": 4,
+        "text": "By pressing the microphone switch three times"
+      }
+    ]
+  },
+  {
+    "text": "DESEL receives the following clearance/instruction: \"DEL WHEN AIRBORNE CLIMB STRAIGHT AHEAD ALTITUDE 3000 FEET; THEN TURN RIGHT, WIND 250 DEGREES, 7 KNOTS, RUNWAY 22, CLEARED FOR TAKE-OFF\". What is the correct read back from DESEL?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "DEL CLIMB STRAIGHT AHEAD ALTITUDE 3000 FEET, THEN TURN RIGHT, RUNWAY 22, CLEARED FOR TAKE-OFF",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "DEL CLEARED FOR TAKE-OFF, RUNWAY 22, WIND 250 DEGREES, 7 KNOTS"
+      },
+      {
+        "id": 3,
+        "text": "DEL WILCO, RUNWAY 22, CLEARED FOR TAKE-OFF"
+      },
+      {
+        "id": 4,
+        "text": "DEL CLIMB 3000 FEET, CLEARED FOR TAKE-OFF"
+      }
+    ]
+  },
+  {
+    "text": "Which elements of the instructions or information below shall be read back?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Clearances, taxi instructions, runway-in-use, QNH, SSR codes, level instructions, heading and speed instructions, frequency in the case of frequency change",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Runway in use, ground visibility, dew point, take-off clearance, frequency in the case of frequency changes"
+      },
+      {
+        "id": 3,
+        "text": "Clearances, wind direction/speed, heading instructions, QNH, frequency in the case of frequency changes"
+      },
+      {
+        "id": 4,
+        "text": "Instructions concerning heading, flight level, speed, altimeter setting, flight visibility, wind direction, take-off clearance and frequency in the case of frequency changes"
+      }
+    ]
+  },
+  {
+    "text": "Which VFR flights usually require the transmission of position reports?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Entering Class D airspace",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "All flights in Class E airspace"
+      },
+      {
+        "id": 3,
+        "text": "Night flights in Class G airspace"
+      },
+      {
+        "id": 4,
+        "text": "Flights above cloud in Class E airspace"
+      }
+    ]
+  },
+  {
+    "text": "VFR",
+    "answers": [
+      {
+        "id": 1,
+        "text": "be made in all cases, unless expressly stated to the contrary, irrespective of the clearance given",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "be made only in the case of special VFR flights"
+      },
+      {
+        "id": 3,
+        "text": "be made only if requested by the aerodrome control tower, irrespective of the clearance given"
+      },
+      {
+        "id": 4,
+        "text": "not be made. Given the instruction to enter the traffic circuit, no further position reports over compulsory reporting points are required"
+      }
+    ]
+  },
+  {
+    "text": "When, in the case of a daytime VFR flight, shall a pilot transmit position reports to the competent ATC unit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "When flying over compulsory reporting points",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "When leaving Class D airspace"
+      },
+      {
+        "id": 3,
+        "text": "Only when flying over radio navigation stations (e.g. VOR, NDB)"
+      },
+      {
+        "id": 4,
+        "text": "When entering Class E or F airspace"
+      }
+    ]
+  },
+  {
+    "text": "A position report normally comprises the radio call sign of the aircraft, position, time of crossing and altitude. Which of these can be omitted under certain conditions in the case of VFR flights?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The time when the message is transmitted at the time of crossing",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The position provided it is published on the visual operation chart"
+      },
+      {
+        "id": 3,
+        "text": "The flight level if it does not exceed 3500 ft AGL"
+      },
+      {
+        "id": 4,
+        "text": "The call sign if it is a non-commercial flight"
+      }
+    ]
+  },
+  {
+    "text": "What data does a position report on flights in the traffic circuit contain?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Radio call sign of the aircraft, position",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Radio call sign of the aircraft, position, time"
+      },
+      {
+        "id": 3,
+        "text": "Radio call sign of the aircraft, position, altitude"
+      },
+      {
+        "id": 4,
+        "text": "Radio call sign of the aircraft, position, altitude, time"
+      }
+    ]
+  },
+  {
+    "text": "What does this symbol on the visual operation chart mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Compulsory reporting point",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Aviation obstacle"
+      },
+      {
+        "id": 3,
+        "text": "Radio navigation facility"
+      },
+      {
+        "id": 4,
+        "text": "Non-compulsory reporting point (on-request reporting point)"
+      }
+    ]
+  },
+  {
+    "text": "What does this symbol on the visual operation chart mean?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Non-compulsory reporting point (on-request reporting point)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Compulsory reporting point"
+      },
+      {
+        "id": 3,
+        "text": "Military aerodrome"
+      },
+      {
+        "id": 4,
+        "text": "Lighted obstacle"
+      }
+    ]
+  },
+  {
+    "text": "When may the estimated time of arrival instead of a report of arrival be transmitted to the competent ATC unit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "If the aircraft is in the traffic circuit and the landing can be regarded as assured",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "If the traffic is observed in the traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "At the aerodrome control's request of the airfield if the landing can be regarded as assured"
+      },
+      {
+        "id": 4,
+        "text": "After approval from the aerodrome control of the airfield"
+      }
+    ]
+  },
+  {
+    "text": "In the case of flight-plan filing and take-off from an uncontrolled aerodrome, the report of departure may be transmitted by radiotelephony. To whom shall it be transmitted in this case?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "To the competent ATC unit or to the competent FIS for forwarding to the AIS-C",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "To the radio navigation service for forwarding to the AIS-C"
+      },
+      {
+        "id": 3,
+        "text": "To the Aeronautical Information Service"
+      },
+      {
+        "id": 4,
+        "text": "To the aeronautical station at the destination aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "Which data shall a report of departure contain if transmitted by radiotelephony?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Aircraft identification, departure aerodrome, time of departure, arrival aerodrome",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Aircraft identification, departure aerodrome, time of departure"
+      },
+      {
+        "id": 3,
+        "text": "Aircraft identification, departure aerodrome, arrival aerodrome"
+      },
+      {
+        "id": 4,
+        "text": "Aircraft identification, time of departure, arrival aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "When the term \"SCATTERED (SCT)\" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "3 to 4 oktas",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "8 oktas"
+      },
+      {
+        "id": 3,
+        "text": "5 to 7 oktas"
+      },
+      {
+        "id": 4,
+        "text": "1 to 2 oktas"
+      }
+    ]
+  },
+  {
+    "text": "When the term \"BROKEN (BKN)\" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "5 to 7 oktas",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "1 to 2 oktas"
+      },
+      {
+        "id": 3,
+        "text": "8 oktas"
+      },
+      {
+        "id": 4,
+        "text": "3 to 4 oktas"
+      }
+    ]
+  },
+  {
+    "text": "When the term \"OVERCAST (OVC)\" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "8 oktas",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "5 to 7 oktas"
+      },
+      {
+        "id": 3,
+        "text": "3 to 4 oktas"
+      },
+      {
+        "id": 4,
+        "text": "1 to 2 oktas"
+      }
+    ]
+  },
+  {
+    "text": "What does \"3 to 4 OKTAS\u201d in routine meteorological reports mean? The cloud amount is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "SCATTERED",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "OVERCAST"
+      },
+      {
+        "id": 3,
+        "text": "BROKEN"
+      },
+      {
+        "id": 4,
+        "text": "NO SIGNIFICANT CLOUDS"
+      }
+    ]
+  },
+  {
+    "text": "What does \u201c5 to 7 OKTAS\u201d in routine meteorological reports mean? The cloud amount is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "BROKEN",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "FEW"
+      },
+      {
+        "id": 3,
+        "text": "OVERCAST"
+      },
+      {
+        "id": 4,
+        "text": "SCATTERED"
+      }
+    ]
+  },
+  {
+    "text": "What does \"1 to 2 OKTAS\u201d in routine meteorological reports mean? The cloud amount is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "FEW",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "BROKEN"
+      },
+      {
+        "id": 3,
+        "text": "SCATTERED"
+      },
+      {
+        "id": 4,
+        "text": "NO SIGNIFICANT CLOUDS"
+      }
+    ]
+  },
+  {
+    "text": "When the term \"CAVOK\" is used in a routine meteorological report (METAR), the values of visibility and clouds are:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "visibility 10 km or more, no cloud below 5000 ft AGL",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "visibility 5000 m or more, no cloud below 5000 ft AGL"
+      },
+      {
+        "id": 3,
+        "text": "visibility 10 km or more, no cloud below 1500 ft AGL"
+      },
+      {
+        "id": 4,
+        "text": "visibility 5000 m or more, no cloud below 1500 ft AGL"
+      }
+    ]
+  },
+  {
+    "text": "How are the values for flight visibility, ground visibility and runway visual range transmitted?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Less than 5 km in metres, above in kilometres",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "In feet and NM"
+      },
+      {
+        "id": 3,
+        "text": "Up to 1500 m in metres, above in kilometres"
+      },
+      {
+        "id": 4,
+        "text": "In NM only"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following ground visibility reports is correct?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "\"VISIBILITY THREE THOUSAND METRES\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "\"VISIBILITY APPROXIMATELY NINE THOUSAND FEET\""
+      },
+      {
+        "id": 3,
+        "text": "\"VISIBILITY THREE KILOMETRES\""
+      },
+      {
+        "id": 4,
+        "text": "\"VISIBILITY ONE DECIMAL EIGHT NAUTICAL MILES\""
+      }
+    ]
+  },
+  {
+    "text": "What is VOLMET?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Meteorological broadcasts for aerodrome meteorological reports for airports",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Flight Information Service"
+      },
+      {
+        "id": 3,
+        "text": "Radio call sign for a unit of the DWD"
+      },
+      {
+        "id": 4,
+        "text": "Call sign of the Air Traffic Advisory Service"
+      }
+    ]
+  },
+  {
+    "text": "During a flight a pilot shall request information on the aerodrome weather conditions via \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "ATIS",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "GAFOR"
+      },
+      {
+        "id": 3,
+        "text": "AIS-C"
+      },
+      {
+        "id": 4,
+        "text": "UHF"
+      }
+    ]
+  },
+  {
+    "text": "ATIS broadcasts serve to provide pilots with information. What information do they contain?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Arrival and departure information for the safe performance of VFR and IFR flights",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Meteorological reports for cross-country flights in VMC"
+      },
+      {
+        "id": 3,
+        "text": "Meteorological reports for several airports"
+      },
+      {
+        "id": 4,
+        "text": "The true bearing to the aerodrome of destination"
+      }
+    ]
+  },
+  {
+    "text": "How is SIGMET information disseminated from 0700 (0600 during the summer period) until SS+30?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "As an aeronautical broadcast on the FIS frequencies every half and full hour",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "As an aeronautical broadcast on the published VOLMET frequencies"
+      },
+      {
+        "id": 3,
+        "text": "At the request of the pilot"
+      },
+      {
+        "id": 4,
+        "text": "As an aeronautical broadcast on the ATC frequencies"
+      }
+    ]
+  },
+  {
+    "text": "SIGMET messages are for the safety of general aviation flights. What information do they contain?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Significant meteorological phenomena, e.g. thunderstorms, turbulence, icing",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Notification of the cloud base in Classes F and G airspace"
+      },
+      {
+        "id": 3,
+        "text": "Routine meteorological reports"
+      },
+      {
+        "id": 4,
+        "text": "Meteorological data in chart form, obtainable from aeronautical meteorological offices"
+      }
+    ]
+  },
+  {
+    "text": "What information shall a distress message contain?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Nature of distress, intentions of the pilot, kind of assistance required, data concerning position, course and level",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Nature of distress, cause of emergency, request to change frequency to 121.500 MHz"
+      },
+      {
+        "id": 3,
+        "text": "Nature of distress, cause of emergency, request to change frequency to 121.500 MHz"
+      },
+      {
+        "id": 4,
+        "text": "Intentions of the pilot, TAS, position, rate of descent"
+      }
+    ]
+  },
+  {
+    "text": "The distress signal MAYDAY means that \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "being threatened by serious and/or imminent danger and of requiring immediate assistance",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "a pilot has made or is about to make an unscheduled landing"
+      },
+      {
+        "id": 3,
+        "text": "an aircraft is in a difficult situation"
+      },
+      {
+        "id": 4,
+        "text": "a passenger on board an aircraft is seriously ill"
+      }
+    ]
+  },
+  {
+    "text": "A distress call shall be transmitted ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "on the frequency used or on an emergency frequency",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "solely on a FIS frequency"
+      },
+      {
+        "id": 3,
+        "text": "always on the emergency frequency 121.500 MHz"
+      },
+      {
+        "id": 4,
+        "text": "on a SAR frequency"
+      }
+    ]
+  },
+  {
+    "text": "How shall a distress call be initiated?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "MAYDAY, emitted preferably three times",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "MAYDAY EMERGENCY MAYDAY"
+      },
+      {
+        "id": 3,
+        "text": "PAN PAN, emitted preferably three times"
+      },
+      {
+        "id": 4,
+        "text": "EMERGENCY, emitted preferably three times"
+      }
+    ]
+  },
+  {
+    "text": "Which of the following signals is a distress signal?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The word MAYDAY transmitted by radiotelephony",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The firing of green and red flares"
+      },
+      {
+        "id": 3,
+        "text": "The word PAN PAN transmitted by radiotelephony"
+      },
+      {
+        "id": 4,
+        "text": "Repeated switching on and off of landing lights or navigation lights"
+      }
+    ]
+  },
+  {
+    "text": "How shall an urgency call be initiated?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "PAN PAN, emitted preferably three times",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "ATTENTION, I HAVE AN URGENT MESSAGE"
+      },
+      {
+        "id": 3,
+        "text": "URGENCY URGENCY"
+      },
+      {
+        "id": 4,
+        "text": "MAYDAY\u201a emitted preferably three times"
+      }
+    ]
+  },
+  {
+    "text": "The radiotelephony signal PAN PAN means that an aircraft \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "is in a difficult situation",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "has strayed into a restricted area"
+      },
+      {
+        "id": 3,
+        "text": "has been hijacked"
+      },
+      {
+        "id": 4,
+        "text": "is in imminent, serious danger and requires immediate assistance"
+      }
+    ]
+  },
+  {
+    "text": "Which code shall be selected on an aircraft\u2019s transponder in a distress situation?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "A 7700",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "A 7500"
+      },
+      {
+        "id": 3,
+        "text": "A 7600"
+      },
+      {
+        "id": 4,
+        "text": "A 7000"
+      }
+    ]
+  },
+  {
+    "text": "An aircraft squawking 7700 indicates to the aeronautical station that \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the aircraft is in distress",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the aircraft has experienced radio communication failure"
+      },
+      {
+        "id": 3,
+        "text": "the aircraft has been hijacked"
+      },
+      {
+        "id": 4,
+        "text": "the aircraft is entering Class E airspace"
+      }
+    ]
+  },
+  {
+    "text": "In case of radio communication failure prior to receipt or acknowledgement of a clearance to enter a control zone, the pilot shall \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "set the transponder code to Mode A 7600, if possible; land at the nearest suitable aerodrome; and report the arrival time by the most expeditious means to the appropriate ATC unit",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "set the transponder code to Mode A 7600, if possible; and find a suitable emergency landing site"
+      },
+      {
+        "id": 3,
+        "text": "set the transponder code to Mode A 7600, if possible; and draw attention to the aircraft by performing circles to the left and to the right"
+      },
+      {
+        "id": 4,
+        "text": "set the transponder code to Mode A 7600, if possible; make a 180\u00b0 turn, and return to the aerodrome of departure"
+      }
+    ]
+  },
+  {
+    "text": "What is a specific feature of a blind transmission?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The message shall be transmitted twice",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "At the end of the blind transmission, the aircraft station\u2019s call sign is repeated"
+      },
+      {
+        "id": 3,
+        "text": "The message shall be transmitted three times"
+      },
+      {
+        "id": 4,
+        "text": "At the end of the blind transmission, the aeronautical station\u2019s call sign is repeated"
+      }
+    ]
+  },
+  {
+    "text": "What is a specific feature of a blind transmission?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The time and/or position of the next blind transmission are announced",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The message commences with the phrase BLIND TRANSMISSION spoken three times"
+      },
+      {
+        "id": 3,
+        "text": "At the end of the blind transmission, the aircraft station\u2019s call sign is repeated"
+      },
+      {
+        "id": 4,
+        "text": "At the end of the blind transmission, the aeronautical station\u2019s call sign is repeated"
+      }
+    ]
+  },
+  {
+    "text": "Which code shall be selected on an aircraft\u2019s transponder in the case of radio communication failure?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "A 7600",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "A 7700"
+      },
+      {
+        "id": 3,
+        "text": "A 7500"
+      },
+      {
+        "id": 4,
+        "text": "A 7000"
+      }
+    ]
+  },
+  {
+    "text": "What does an aircraft indicate to the aeronautical station when it transmits the transponder code A 7600?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Radio communication failure",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Request landing instructions"
+      },
+      {
+        "id": 3,
+        "text": "Emergency"
+      },
+      {
+        "id": 4,
+        "text": "Entering Class C airspace"
+      }
+    ]
+  },
+  {
+    "text": "Upon observing a light signal directed towards the aircraft, the pilot shall take the prescribed measures. What shall the pilot take into account?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Instructions by radio have priority over signals and signs, with the exception of red pyrotechnic lights",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Audio signals can also be given"
+      },
+      {
+        "id": 3,
+        "text": "Signals and signs have priority over radio instructions"
+      },
+      {
+        "id": 4,
+        "text": "Ground signals have priority over light signals"
+      }
+    ]
+  },
+  {
+    "text": "Radio instructions have priority over light and ground signals and visual signs. This does not apply to \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "red pyrotechnic lights",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "steady green lights"
+      },
+      {
+        "id": 3,
+        "text": "steady red lights"
+      },
+      {
+        "id": 4,
+        "text": "series of red flashes"
+      }
+    ]
+  },
+  {
+    "text": "A pilot shall follow, on a priority basis:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "instructions by radio",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "light signals"
+      },
+      {
+        "id": 3,
+        "text": "ground signals"
+      },
+      {
+        "id": 4,
+        "text": "flares discharged at intervals of about 10 seconds, which burst into red or green lights and stars"
+      }
+    ]
+  },
+  {
+    "text": "Which frequency band is used for radiotelephony communication in the civil aeronautical mobile service?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "117.975 MHz - 137.000 MHz",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "108.000 kHz - 136.000 kHz"
+      },
+      {
+        "id": 3,
+        "text": "108.000 MHz - 117.975 MHz"
+      },
+      {
+        "id": 4,
+        "text": "200 - 490 kHz"
+      }
+    ]
+  },
+  {
+    "text": "Which channel spacing (frequency band 117.975 MHz \u2013 137.000 MHz) is operated in the aeronautical mobile service in lower airspace?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "25 kHz + 8.33 kHz",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "25 MHz"
+      },
+      {
+        "id": 3,
+        "text": "25 MHz + 8.33 MHz"
+      },
+      {
+        "id": 4,
+        "text": "8.33 kHz"
+      }
+    ]
+  },
+  {
+    "text": "Which operating mode is used for radiotelephony communication in the aeronautical mobile service?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Simplex operation",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Full-duplex operation"
+      },
+      {
+        "id": 3,
+        "text": "Simplex and duplex operation"
+      },
+      {
+        "id": 4,
+        "text": "Duplex operation"
+      }
+    ]
+  },
+  {
+    "text": "Which designation does the frequency 121.500 MHz have?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "International emergency frequency",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Instruction and training frequency"
+      },
+      {
+        "id": 3,
+        "text": "Inter-pilot air-to-air frequency"
+      },
+      {
+        "id": 4,
+        "text": "Information frequency"
+      }
+    ]
+  },
+  {
+    "text": "Which of the frequencies listed below corresponds to that of a German aeronautical station with the call sign \u201cINFO\u201d?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "130.780 MHz",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "121.500 MHz"
+      },
+      {
+        "id": 3,
+        "text": "109.550 MHz"
+      },
+      {
+        "id": 4,
+        "text": "200 kHz"
+      }
+    ]
+  },
+  {
+    "text": "Which frequency is operated in 8.33 kHz channel spacing?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "134.555 MHz",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "121.500 MHz"
+      },
+      {
+        "id": 3,
+        "text": "109.550 MHz"
+      },
+      {
+        "id": 4,
+        "text": "200 kHz"
+      }
+    ]
+  },
+  {
+    "text": "How can a radiotelephony frequency be blocked?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Keeping the talk button depressed",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Speaking too loudly"
+      },
+      {
+        "id": 3,
+        "text": "Speaking too softly"
+      },
+      {
+        "id": 4,
+        "text": "Switching the radiotelephony unit on and off"
+      }
+    ]
+  },
+  {
+    "text": "How do very high frequency (VHF) waves propagate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Similar to light, i.e. \"quasi optically\"",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Similar to short waves but they are unaffected by atmospheric disturbances"
+      },
+      {
+        "id": 3,
+        "text": "The waves travel as ground waves along the surface of Earth and, therefore, also penetrate into valleys, hence they cannot be influenced by topographical obstacles"
+      },
+      {
+        "id": 4,
+        "text": "The waves are reflected by the ionosphere at an altitude of about 100 km and return to the Earth's surface as sky waves"
+      }
+    ]
+  },
+  {
+    "text": "Which phenomena can influence the quality of VFH reception in aeronautical radio?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Altitude of the aircraft and topographical features",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Day-night effect"
+      },
+      {
+        "id": 3,
+        "text": "Ionosphere"
+      },
+      {
+        "id": 4,
+        "text": "Atmospherics occurring particularly during thunderstorms"
+      }
+    ]
+  },
+  {
+    "text": "In which of the following situations is radiotelephony communication between aircraft and the TOWER on frequency 118.250 MHz unlikely to encounter any problems?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "When the aircraft flies at a sufficiently high altitude, and is close to the aeronautical station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "When the aircraft performs a low-level flight in a valley, in radio shadow in the vicinity of the aeronautical station"
+      },
+      {
+        "id": 3,
+        "text": "When the aircraft flies at a low altitude in the radio shadow of a mountain, and is far away from the aeronautical station"
+      },
+      {
+        "id": 4,
+        "text": "When the aircraft flies at a low altitude, and is very far away from the aeronautical station"
+      }
+    ]
+  },
+  {
+    "text": "What is the maximum distance at which you might expect perfect VHF radio contact over flat terrain at flight level 65?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Approx. 95 NM",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Approx. 20 NM"
+      },
+      {
+        "id": 3,
+        "text": "Approx. 10 NM"
+      },
+      {
+        "id": 4,
+        "text": "Approx. 150 NM"
+      }
+    ]
+  },
+  {
+    "text": "What Air Traffic Services are there?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Air Traffic Control Service, Alerting Service, Flight Information Service, Air Traffic Advisory Service",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Air Navigation Service, Search and Rescue, and Telecommunication Services"
+      },
+      {
+        "id": 3,
+        "text": "Alerting, Rescue, Information and Advisory Services"
+      },
+      {
+        "id": 4,
+        "text": "Meteorological, Advisory, Search and Rescue (SAR), and Control Services"
+      }
+    ]
+  },
+  {
+    "text": "The Flight Information Service performs the following tasks:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "accept and forward flight plans and flight plan following messages",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "distribute meteorological reports"
+      },
+      {
+        "id": 3,
+        "text": "issue clearances"
+      },
+      {
+        "id": 4,
+        "text": "organise Search and Rescue (SAR) services"
+      }
+    ]
+  },
+  {
+    "text": "Who is responsible for air traffic control in the Federal Republic of Germany?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Air",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Federal Aviation Administration"
+      },
+      {
+        "id": 3,
+        "text": "Aeronautical Authorities of the Lands (federal states)"
+      },
+      {
+        "id": 4,
+        "text": "DFS Deutsche Flugsicherung GmbH"
+      }
+    ]
+  },
+  {
+    "text": "When is the FIS available to a pilot?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "During the flight",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "During the flight but only for flights in Classes C and E airspace"
+      },
+      {
+        "id": 3,
+        "text": "Before commencement of a flight"
+      },
+      {
+        "id": 4,
+        "text": "During the flight, but only for flights in Class G airspace"
+      }
+    ]
+  },
+  {
+    "text": "Flight preparations are the responsibility of:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "all pilots",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "only pilots performing cross-country flights"
+      },
+      {
+        "id": 3,
+        "text": "only pilots of power-driven aircraft"
+      },
+      {
+        "id": 4,
+        "text": "inexperienced pilots"
+      }
+    ]
+  },
+  {
+    "text": "Meteorological briefing shall generally be requested \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "for flights leaving the vicinity of the aerodrome of departure and for all IFR flights",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "in the event of uncertain meteorological conditions"
+      },
+      {
+        "id": 3,
+        "text": "for flights in respect of which flight plans must be filed"
+      },
+      {
+        "id": 4,
+        "text": "for commercial flights"
+      }
+    ]
+  },
+  {
+    "text": "The time data used for aviation purposes are always based on ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Coordinated Universal Time (UTC)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Local time"
+      },
+      {
+        "id": 3,
+        "text": "Zone time (Z time)"
+      },
+      {
+        "id": 4,
+        "text": "CET or CEST"
+      }
+    ]
+  },
+  {
+    "text": "What is the measurement unit for horizontal speed in aviation?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Knots",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Miles per minute"
+      },
+      {
+        "id": 3,
+        "text": "Kilometres per hour"
+      },
+      {
+        "id": 4,
+        "text": "Metres per minute"
+      }
+    ]
+  },
+  {
+    "text": "What is the measurement unit for vertical speed in aviation?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Feet per minute",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Feet per second"
+      },
+      {
+        "id": 3,
+        "text": "Knots"
+      },
+      {
+        "id": 4,
+        "text": "Metres per minute"
+      }
+    ]
+  },
+  {
+    "text": "What is the measurement unit for altitudes in aviation?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Feet",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Inches"
+      },
+      {
+        "id": 3,
+        "text": "Metres"
+      },
+      {
+        "id": 4,
+        "text": "Kilometres"
+      }
+    ]
+  },
+  {
+    "text": "What is the measurement unit for distances used in aviation for navigation purposes?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Nautical miles and tenths",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Knots"
+      },
+      {
+        "id": 3,
+        "text": "Kilometres"
+      },
+      {
+        "id": 4,
+        "text": "Miles"
+      }
+    ]
+  },
+  {
+    "text": "What is the measurement unit for atmospheric pressure in aviation?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Hectopascal",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Atmosphere above atmospheric pressure"
+      },
+      {
+        "id": 3,
+        "text": "Millimetre of mercury"
+      },
+      {
+        "id": 4,
+        "text": "Millibar"
+      }
+    ]
+  },
+  {
+    "text": "Which minimum height shall be observed over the congested areas of cities for VFR flights?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "300 m (1000 ft) above the highest obstacle and a distance of 600 m from the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "300 m (1000 ft) above ground or the highest obstacle"
+      },
+      {
+        "id": 3,
+        "text": "600 m (2000 ft) above the highest obstacle and a distance of 150 m from the aircraft"
+      },
+      {
+        "id": 4,
+        "text": "600 m (2000 ft), if no contact to obstacles"
+      }
+    ]
+  },
+  {
+    "text": "What is the required minimum distance to the highest obstacle for VFR flights over ground or water at an altitude of 150 m (500 ft)?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "150 m (500 ft) from the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "300 m (1000 ft) from the aircraft"
+      },
+      {
+        "id": 3,
+        "text": "1,5 km to the next obstacle"
+      },
+      {
+        "id": 4,
+        "text": "No distance required"
+      }
+    ]
+  },
+  {
+    "text": "A power-driven aircraft and a glider are approaching head-on. Who shall give way?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Both shall turn right",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The glider"
+      },
+      {
+        "id": 3,
+        "text": "The faster aircraft"
+      },
+      {
+        "id": 4,
+        "text": "The power-driven aircraft"
+      }
+    ]
+  },
+  {
+    "text": "Aircraft towing objects shall have the right of way over \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "power-driven aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "all other aircraft"
+      },
+      {
+        "id": 3,
+        "text": "gliders"
+      },
+      {
+        "id": 4,
+        "text": "powered gliders with their engines turned off"
+      }
+    ]
+  },
+  {
+    "text": "A pilot observes a powered glider (engine running) converging at approximately the same level from the left that will cross the pilot\u2019s flight path. Who shall give way?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The powered glider shall give way to the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The aircraft shall give way to the powered glider"
+      },
+      {
+        "id": 3,
+        "text": "The faster aircraft shall give way"
+      },
+      {
+        "id": 4,
+        "text": "Both aircraft shall change course"
+      }
+    ]
+  },
+  {
+    "text": "When an aircraft is in the final stages of an approach to land \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "an aircraft at a lower level shall have the right of way",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "an aircraft at a higher level shall have the right of way"
+      },
+      {
+        "id": 3,
+        "text": "a multiple-seated aircraft always shall have the right of way"
+      },
+      {
+        "id": 4,
+        "text": "an aircraft at a lower level shall make a long landing"
+      }
+    ]
+  },
+  {
+    "text": "When shall all aircraft display navigation lights?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "At night",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "At night and in low visibility conditions"
+      },
+      {
+        "id": 3,
+        "text": "From SS+30 to SR"
+      },
+      {
+        "id": 4,
+        "text": "From SS+30 to SR+30"
+      }
+    ]
+  },
+  {
+    "text": "All aircraft in flight and fitted with anti-collision lights shall display such lights \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "during day and night",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "during night only"
+      },
+      {
+        "id": 3,
+        "text": "from take-off to landing at night in low visibility conditions"
+      },
+      {
+        "id": 4,
+        "text": "by aircraft operating at night and in daytime in low visibility conditions"
+      }
+    ]
+  },
+  {
+    "text": "A horizontal red square panel with two yellow diagonals displayed in the signal area indicates:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "landing is prohibited for a prolonged period",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the aerodrome is closed for a short time"
+      },
+      {
+        "id": 3,
+        "text": "the aerodrome is unusable for a prolonged period"
+      },
+      {
+        "id": 4,
+        "text": "take-off and landing are prohibited for a prolonged period"
+      }
+    ]
+  },
+  {
+    "text": "A horizontal white dumb-bell displayed in the signal area indicates:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "aircraft are required to land, take off, and taxi on runways and taxiways only",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "aircraft is required to take off on taxiway"
+      },
+      {
+        "id": 3,
+        "text": "landing is prohibited for leisure aircraft"
+      },
+      {
+        "id": 4,
+        "text": "taxiway may not be used for the time being"
+      }
+    ]
+  },
+  {
+    "text": "A white or orange \"T\" (landing T) which is either illuminated or outlined in white lights at night indicates:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "take-offs and landings shall be executed parallel to the shaft of the landing T towards the cross arm",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "take-off is prohibited"
+      },
+      {
+        "id": 3,
+        "text": "aircraft is required to perform take-offs and landings on runway only"
+      },
+      {
+        "id": 4,
+        "text": "aircraft shall touch down next to the landing T"
+      }
+    ]
+  },
+  {
+    "text": "A set of two digits displayed vertically at or near the aerodrome control tower indicates:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the direction for take-off, expressed in units of ten degrees to the nearest 10\u00b0 of the magnetic compass",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the last two digits of the QNH"
+      },
+      {
+        "id": 3,
+        "text": "the direction for landing, rounded off to the magnetic heading"
+      },
+      {
+        "id": 4,
+        "text": "the temperature"
+      }
+    ]
+  },
+  {
+    "text": "When displayed in a signal area, or horizontally at the end of the runway or strip in use, a right-hand arrow of conspicuous colour indicates:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "turns shall be made to the right before landing and after take-off",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "taxiing manoeuvres shall be made to the right only"
+      },
+      {
+        "id": 3,
+        "text": "aircraft shall take off and land to the right of the runway"
+      },
+      {
+        "id": 4,
+        "text": "right of way shall be given to aircraft approaching from the right"
+      }
+    ]
+  },
+  {
+    "text": "What does a steady green light directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cleared to land",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Land at this aerodrome and proceed to apron"
+      },
+      {
+        "id": 3,
+        "text": "Give way to other aircraft and continue circling"
+      },
+      {
+        "id": 4,
+        "text": "Return to aerodrome of departure"
+      }
+    ]
+  },
+  {
+    "text": "What does a steady red light directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Give way to other aircraft and continue circling",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Return for landing (clearances to land and to taxi will be given in due course)"
+      },
+      {
+        "id": 3,
+        "text": "Do not land, aerodrome unsafe"
+      },
+      {
+        "id": 4,
+        "text": "Notwithstanding any previous instructions and clearances, do not land for the time being"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of green flashes directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Return for landing (clearances to land and to taxi will be given in due course)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Cleared to land"
+      },
+      {
+        "id": 3,
+        "text": "Give way to other aircraft and continue circling"
+      },
+      {
+        "id": 4,
+        "text": "Land at this aerodrome and proceed to apron"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of red flashes directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Do not land, aerodrome unsafe",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Continue aerodrome traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "Leave aerodrome traffic circuit"
+      },
+      {
+        "id": 4,
+        "text": "Cleared to land immediately"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of white flashes directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Land at this aerodrome and proceed to apron (clearances to land and to taxi will be given in due course)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Do not land at this aerodrome"
+      },
+      {
+        "id": 3,
+        "text": "Leave traffic circuit"
+      },
+      {
+        "id": 4,
+        "text": "Continue traffic circuit"
+      }
+    ]
+  },
+  {
+    "text": "What does a red pyrotechnic light directed toward an aircraft in flight indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Notwithstanding any previous instructions and clearances, do not land for the time being",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Danger! Leave traffic circuit immediately"
+      },
+      {
+        "id": 3,
+        "text": "Restricted area! Leave area immediately"
+      },
+      {
+        "id": 4,
+        "text": "Danger area! Leave area immediately"
+      }
+    ]
+  },
+  {
+    "text": "What does a steady green light directed toward an aircraft on the ground indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cleared for take-off",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Stop!"
+      },
+      {
+        "id": 3,
+        "text": "Return to starting point on the aerodrome"
+      },
+      {
+        "id": 4,
+        "text": "Cleared to taxi"
+      }
+    ]
+  },
+  {
+    "text": "What does a steady red light directed toward an aircraft on the ground indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Stop!",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Taxi clear of landing area in use"
+      },
+      {
+        "id": 3,
+        "text": "Vacate runway"
+      },
+      {
+        "id": 4,
+        "text": "Vacate taxiway"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of green flashes directed toward an aircraft on the ground indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Cleared to taxi",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Cleared for take-off"
+      },
+      {
+        "id": 3,
+        "text": "Runway clear of obstacles"
+      },
+      {
+        "id": 4,
+        "text": "Return to starting point on the aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of red flashes directed toward an aircraft on the ground indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Taxi clear of landing area in use",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Stop!"
+      },
+      {
+        "id": 3,
+        "text": "Cleared for take-off"
+      },
+      {
+        "id": 4,
+        "text": "Return to starting point on the aerodrome"
+      }
+    ]
+  },
+  {
+    "text": "What does a series of white flashes directed toward an aircraft on the ground indicate?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Return to starting point on the aerodrome",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Cleared for take-off"
+      },
+      {
+        "id": 3,
+        "text": "Notwithstanding any previous instructions and clearances, do not taxi and take off for the time being"
+      },
+      {
+        "id": 4,
+        "text": "Taxi clear of landing area in use"
+      }
+    ]
+  },
+  {
+    "text": "Aerodrome traffic is \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "all the traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome. An aircraft operating in the vicinity of an aerodrome includes but is not limited to aircraft entering or leaving an aerodrome traffic circuit",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "all aircraft in the aerodrome traffic circuit"
+      },
+      {
+        "id": 3,
+        "text": "all aircraft on the runway"
+      },
+      {
+        "id": 4,
+        "text": "all the traffic on the manoeuvring area of an aerodrome and all aircraft entering the aerodrome traffic circuit"
+      }
+    ]
+  },
+  {
+    "text": "When does an aircraft fly \u201cdownwind 16\u201d? When it flies a heading of \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "340\u00b0 and the aerodrome is to the left of the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "340\u00b0 and the aerodrome is to the right of the aircraft"
+      },
+      {
+        "id": 3,
+        "text": "160\u00b0 and the aerodrome is to the left of the aircraft"
+      },
+      {
+        "id": 4,
+        "text": "160\u00b0 and the aerodrome is to the right of the aircraft"
+      }
+    ]
+  },
+  {
+    "text": "Changes of direction in the traffic circuit shall normally be made \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "in turns to the left",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "to the south"
+      },
+      {
+        "id": 3,
+        "text": "in turns to the right"
+      },
+      {
+        "id": 4,
+        "text": "to the north"
+      }
+    ]
+  },
+  {
+    "text": "Changes of direction in the approach to landing and after take-off shall normally be made \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "in turns to the left",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "to the south"
+      },
+      {
+        "id": 3,
+        "text": "in turns to the right"
+      },
+      {
+        "id": 4,
+        "text": "to the north"
+      }
+    ]
+  },
+  {
+    "text": "Whose signals and signs shall the pilot on the apron and parking areas of a controlled aerodrome follow?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Aerodrome operator",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Control tower"
+      },
+      {
+        "id": 3,
+        "text": "Aeronautical Authorities of the Lands (federal states)"
+      },
+      {
+        "id": 4,
+        "text": "Federal Office of Civil Aviation"
+      }
+    ]
+  },
+  {
+    "text": "A pilot is performing a VFR flight to a controlled aerodrome. Radiotelephony communication with the control tower is not possible. What action shall the pilot take?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The pilot shall land on an aerodrome outside the control zone. It is for flight operational reasons only that the pilot may continue to the CTR",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The pilot shall proceed to the alternate aerodrome designated in the flight plan"
+      },
+      {
+        "id": 3,
+        "text": "Under no circumstances is the pilot allowed to enter the control zone"
+      },
+      {
+        "id": 4,
+        "text": "The pilot shall send a blind transmission and continue the flight according to the VFR entry route prescribed in the AIP"
+      }
+    ]
+  },
+  {
+    "text": "During a VFR flight, the pilot has been given clearance to enter the control zone and has received and acknowledged the landing instructions. A short time afterwards, the radiotelephone fails. What action shall the pilot take?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Continue the flight in accordance with the clearance",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Land at an aerodrome outside the control zone and transmit an arrival message"
+      },
+      {
+        "id": 3,
+        "text": "Continue the flight to the alternate aerodrome indicated in the flight plan"
+      },
+      {
+        "id": 4,
+        "text": "Circle for 10 minutes outside the control zone and then continue the approach"
+      }
+    ]
+  },
+  {
+    "text": "Flight visibility is defined as \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "visibility forward from the cockpit of an aircraft in flight",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "maximum visibility forward from the cockpit of an aircraft on the ground"
+      },
+      {
+        "id": 3,
+        "text": "visibility from the cockpit of an aircraft in flight to the ground"
+      },
+      {
+        "id": 4,
+        "text": "mean slant visibility from the cockpit of an aircraft in flight"
+      }
+    ]
+  },
+  {
+    "text": "The minimum horizontal distance from cloud on a VFR flight in Class D airspace (CTR) is:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "1500 m",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "300 m"
+      },
+      {
+        "id": 3,
+        "text": "1500 ft"
+      },
+      {
+        "id": 4,
+        "text": "300 ft"
+      }
+    ]
+  },
+  {
+    "text": "VFR flights in Class E airspace below FL 100 shall be conducted so that \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the pilot shall have flight visibility of at least 5 km and maintain a distance from cloud of at least 1500 m horizontally and at least 300 m (1000 ft) vertically",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "ground visibility shall be at least 5 km"
+      },
+      {
+        "id": 3,
+        "text": "the pilot shall have flight visibility of at least 5 km and maintain a distance from cloud of at least 300 m horizontally and at least 300 ft vertically"
+      },
+      {
+        "id": 4,
+        "text": "the pilot shall have flight visibility of at least 8 km and maintain a distance from cloud of at least 1500 m horizontally and at least 300 m (1000 ft) vertically, and have ground visibility of at least 5 km"
+      }
+    ]
+  },
+  {
+    "text": "What are the requirements for VFR flights in Class G airspace at speeds of 140 kts IAS or less at and below 3000 ft AMSL/1000 ft AGL?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Visual contact to the ground, flight visibility at least 1500 m, clear of cloud",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Ground visibility at least 1500 m, clear of cloud"
+      },
+      {
+        "id": 3,
+        "text": "Ground visibility at least 5 km, ceiling at least 1500 ft"
+      },
+      {
+        "id": 4,
+        "text": "Flight visibility at least 1500 m, distance from the clouds at least 300 m horizontally and at least 2000 ft vertically"
+      }
+    ]
+  },
+  {
+    "text": "Is a specific distance from cloud prescribed for VFR flights in Class G airspace at and below 3000 ft AMSL/1000 ft AGL?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "No",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Yes, at least 1.5 km horizontally and at least 1000 ft vertically"
+      },
+      {
+        "id": 3,
+        "text": "Yes, at least 1.5 km horizontally"
+      },
+      {
+        "id": 4,
+        "text": "Yes, at least 1.5 NM horizontally"
+      }
+    ]
+  },
+  {
+    "text": "In which class of airspace may special VFR flights be conducted?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "In Class D airspace (CTR)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "In Classes C and D airspace"
+      },
+      {
+        "id": 3,
+        "text": "In Class E airspace"
+      },
+      {
+        "id": 4,
+        "text": "Only at FL 100 and above"
+      }
+    ]
+  },
+  {
+    "text": "When shall the standard altimeter setting be used during VFR flights?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "On flights above 5000 ft AMSL or 2000 ft AGL, if this level exceeds 5000 ft AMSL",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "On flights below 5000 ft AMSL"
+      },
+      {
+        "id": 3,
+        "text": "On flights up to 5000 ft AGL"
+      },
+      {
+        "id": 4,
+        "text": "Various regulations apply in this case"
+      }
+    ]
+  },
+  {
+    "text": "On VFR flights above an altitude of 5000 ft AMSL or 2000 ft AGL, if this level exceeds 5000 ft AMSL, the altimeter shall be set to:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "1013.2 hPa",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QFF"
+      },
+      {
+        "id": 3,
+        "text": "QNH"
+      },
+      {
+        "id": 4,
+        "text": "QFE"
+      }
+    ]
+  },
+  {
+    "text": "On VFR flights up to an altitude of 5000 ft AMSL or 2000 ft AGL, if this level exceeds 5000 ft AMSL, the altimeter shall be set to:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the QNH of the aerodrome with ATC unit nearest to route of flight",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the QNH of the nearest airport"
+      },
+      {
+        "id": 3,
+        "text": "the QFE of the nearest controlled aerodrome"
+      },
+      {
+        "id": 4,
+        "text": "1013.2 hPa"
+      }
+    ]
+  },
+  {
+    "text": "How is the sector calculated for semi-circular cruising levels under visual flight rules? On the basis of \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the magnetic track",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the true chart heading"
+      },
+      {
+        "id": 3,
+        "text": "the compass heading"
+      },
+      {
+        "id": 4,
+        "text": "the true track"
+      }
+    ]
+  },
+  {
+    "text": "Which flight level(s) shall be used on VFR flights on a magnetic track of 135\u00b0 with standard altimeter setting?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "55, 75, 95",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "65, 85, 105"
+      },
+      {
+        "id": 3,
+        "text": "50, 70, 90"
+      },
+      {
+        "id": 4,
+        "text": "60, 80, 100"
+      }
+    ]
+  },
+  {
+    "text": "Which Flight Information Regions (FIR) under German jurisdiction are there in the lower airspace?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Bremen, Langen, Munich",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Berlin, Hamburg, Frankfurt, Munich"
+      },
+      {
+        "id": 3,
+        "text": "Bremen, Berlin, Hannover, D\u00fcsseldorf, Stuttgart"
+      },
+      {
+        "id": 4,
+        "text": "Berlin, Hannover, Maastricht, Rhein, Langen"
+      }
+    ]
+  },
+  {
+    "text": "A radio mandatory zone (RMZ) reaches up to an altitude of ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "1000 ft AGL",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "1000 ft AMSL"
+      },
+      {
+        "id": 3,
+        "text": "3000 ft AMSL"
+      },
+      {
+        "id": 4,
+        "text": "2500 ft AGL"
+      }
+    ]
+  },
+  {
+    "text": "A radio mandatory zone (RMZ) reaches from the ground to ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "1000 ft AGL",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "1700 ft AGL"
+      },
+      {
+        "id": 3,
+        "text": "1700 ft AGL"
+      },
+      {
+        "id": 4,
+        "text": "2500 ft AGL"
+      }
+    ]
+  },
+  {
+    "text": "Control zones in Germany are classified \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "as Class D airspace",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "mainly as Class D airspace, but in a few cases as Class C airspace"
+      },
+      {
+        "id": 3,
+        "text": "around airports as Class C airspace, for the rest as Class D airspace"
+      },
+      {
+        "id": 4,
+        "text": "around military aerodromes as Class B airspace, around airports as Class C airspace, and for the rest as Class D airspace"
+      }
+    ]
+  },
+  {
+    "text": "A transit flight through an \"HX\"-designated control zone outside the hours of operation is possible without clearance if the pilot ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "prior to the transit flight obtains confirmation from the competent aerodrome control tower (TWR), outside the",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "information service FIS, that the control zone is not operational has obtained written authorization from the aerodrome commander"
+      },
+      {
+        "id": 3,
+        "text": "obtains confirmation from the military ATC prior to commencing the transit flight that the control zone is not operational"
+      },
+      {
+        "id": 4,
+        "text": "confirms by means of the AIP that the control zone is not operational"
+      }
+    ]
+  },
+  {
+    "text": "Which airspace classes are considered controlled airspace?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "C, D, E",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "C, D, F"
+      },
+      {
+        "id": 3,
+        "text": "E, F, G"
+      },
+      {
+        "id": 4,
+        "text": "C, E, F"
+      }
+    ]
+  },
+  {
+    "text": "Class E airspace extends, unless otherwise classified, \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "from 1000 ft AGL and 1700 ft AGL, otherwise from 2500 ft AGL to FL 100",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "from 1000 ft and 1700 ft AGL, otherwise from 5000 ft AMSL to FL 200"
+      },
+      {
+        "id": 3,
+        "text": "from 1000 ft and 1700 ft AGL to 5000 ft AMSL"
+      },
+      {
+        "id": 4,
+        "text": "from 1000 ft and 1700 ft AGL, otherwise from 2500 ft AGL to FL 200"
+      }
+    ]
+  },
+  {
+    "text": "An \"ED-R\u2026\" area is a \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "restricted area",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "danger area"
+      },
+      {
+        "id": 3,
+        "text": "prohibited area"
+      },
+      {
+        "id": 4,
+        "text": "restricted area for gliders"
+      }
+    ]
+  },
+  {
+    "text": "An \"ED-D\u2026\" area is a \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "danger area",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "restricted area"
+      },
+      {
+        "id": 3,
+        "text": "military exercise area"
+      },
+      {
+        "id": 4,
+        "text": "prohibited area"
+      }
+    ]
+  },
+  {
+    "text": "When shall aircraft performing VFR cross-country flights be equipped with a VHF transceiver?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Always",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Only on flights to and from aerodromes without air traffic control"
+      },
+      {
+        "id": 3,
+        "text": "Only on international flights"
+      },
+      {
+        "id": 4,
+        "text": "Only on flights to controlled aerodromes"
+      }
+    ]
+  },
+  {
+    "text": "VFR flights over continuous cloud cover ...",
+    "answers": [
+      {
+        "id": 1,
+        "text": "may be performed if the aircraft is equipped with at least a VHF transceiver and a VOR receiver or with an ADF",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "may not be performed"
+      },
+      {
+        "id": 3,
+        "text": "may be performed only with a CVFR rating"
+      },
+      {
+        "id": 4,
+        "text": "may be performed only after ATC clearance"
+      }
+    ]
+  },
+  {
+    "text": "Aircraft on VFR flights shall be equipped with an transponder \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "in Classes C or D airspaces (non-control zone)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "in Classes C or G airspaces"
+      },
+      {
+        "id": 3,
+        "text": "not require"
+      },
+      {
+        "id": 4,
+        "text": "in Classes G or D airspaces (non-control zone)"
+      }
+    ]
+  },
+  {
+    "text": "Which transponder mode/code shall be set unrequested by powered aircraft on VFR flights in Class E airspace above 5000 ft AMSL or 3500 ft AGL, whichever is higher?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "A/C 7000",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The transponder shall not be used without request"
+      },
+      {
+        "id": 3,
+        "text": "A/C 7600"
+      },
+      {
+        "id": 4,
+        "text": "A/C 7700"
+      }
+    ]
+  },
+  {
+    "text": "During descent from FL 85 to 3500 ft AMSL the pilot of a powered aircraft, prior to reaching the new cruising level, shall set the altimeter and the transponder as follows:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "altimeter to QNH and maintain mode A/C code 7000",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "altimeter to QNH 1013.2 hPa and transponder to \"STAND-BY\""
+      },
+      {
+        "id": 3,
+        "text": "altimeter to QNH and maintain mode A/C code 7600"
+      },
+      {
+        "id": 4,
+        "text": "altimeter to QNH 1013.2 hPa and transponder to mode A/C code 7600"
+      }
+    ]
+  },
+  {
+    "text": "In transponder mandatory zones (TMZ), aircraft on VFR flights shall be equipped with an \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "automatic altitude reporting transponder which emits code 7000 without request",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "automatic altitude reporting transponder which emits code 7500 without request"
+      },
+      {
+        "id": 3,
+        "text": "automatic altitude reporting transponder which emits code 7600 without request"
+      },
+      {
+        "id": 4,
+        "text": "automatic altitude reporting transponder which emits code 7700 without request"
+      }
+    ]
+  },
+  {
+    "text": "What is the meaning of the term \"AIRCRAFT-TO-STATION BEARING\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Position fixing by use of on-board navigation equipment",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Terrestrial navigation"
+      },
+      {
+        "id": 3,
+        "text": "Position fixing by use of radar on the ground"
+      },
+      {
+        "id": 4,
+        "text": "Cross bearing by means of radio navigation stations"
+      }
+    ]
+  },
+  {
+    "text": "Which radio navigation equipment can be used for ground direction finding?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "VHF direction-finding station (VDF)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "VOR/DME unit"
+      },
+      {
+        "id": 3,
+        "text": "NDB unit"
+      },
+      {
+        "id": 4,
+        "text": "TACAN unit"
+      }
+    ]
+  },
+  {
+    "text": "The identification of a VHF omnidirectional radio range (VOR) generally consists of \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "three Morse code letters",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "a flashing signal"
+      },
+      {
+        "id": 3,
+        "text": "a call sign"
+      },
+      {
+        "id": 4,
+        "text": "two Morse code letters"
+      }
+    ]
+  },
+  {
+    "text": "A VOR indicator is considered a \"command unit\" when \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the display reads \"FROM\" and the aircraft is flying away from the VOR station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the display reads \"TO\" and the aircraft is flying away from the VOR station"
+      },
+      {
+        "id": 3,
+        "text": "the display reads \"OFF\" and the aircraft is approaching the VOR station"
+      },
+      {
+        "id": 4,
+        "text": "the display reads \"FROM\" and the aircraft is approaching the VOR station"
+      }
+    ]
+  },
+  {
+    "text": "What does the receiving range of a VHF omnidirectional radio range (VOR) depend on?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flight level of the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Type of aircraft"
+      },
+      {
+        "id": 3,
+        "text": "Speed of the aircraft"
+      },
+      {
+        "id": 4,
+        "text": "Aircraft heading"
+      }
+    ]
+  },
+  {
+    "text": "The knob marked \"OBS\" on the VOR indicator is the \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "omni bearing selector",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "frequency selector"
+      },
+      {
+        "id": 3,
+        "text": "volume control"
+      },
+      {
+        "id": 4,
+        "text": "TO/FROM switch"
+      }
+    ]
+  },
+  {
+    "text": "Which direction is the radial of a VOR station related to?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Magnetic north",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QTE"
+      },
+      {
+        "id": 3,
+        "text": "Longitudinal axis of the aircraft"
+      },
+      {
+        "id": 4,
+        "text": "True north"
+      }
+    ]
+  },
+  {
+    "text": "The VHF omnidirectional radio range (VOR) operates in the frequency band \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "108 MHz to 117.975 MHz",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "200 MHz to 1750 MHz"
+      },
+      {
+        "id": 3,
+        "text": "108 MHz to 112 MHz"
+      },
+      {
+        "id": 4,
+        "text": "118 MHz to 137 MHz"
+      }
+    ]
+  },
+  {
+    "text": "When does the TO/FROM indicator on the VOR indicator change from \"TO\" to \"FROM\"?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "When the aircraft flies over the VOR station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "When the heading is changed by 90\u00b0"
+      },
+      {
+        "id": 3,
+        "text": "When the heading is changed by 180\u00b0"
+      },
+      {
+        "id": 4,
+        "text": "When the IDENT button is activated"
+      }
+    ]
+  },
+  {
+    "text": "An aircraft approaches a VOR station which is set to 320\u00b0, and the direction displayed is \"TO\". The course deviation indicator (CDI) moves to the left. Where is the aircraft?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Right of the radial",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Left of the radial"
+      },
+      {
+        "id": 3,
+        "text": "Over the radial"
+      },
+      {
+        "id": 4,
+        "text": "South of the radial"
+      }
+    ]
+  },
+  {
+    "text": "An aircraft equipped with a VOR receiver intends to fly to a VOR station on the shortest route. Which of the following statements is correct? The omni bearing selector is turned until \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "the vertical needle has reached the central position and the TO/FROM indicator reads \"TO\". The value displayed by the VOR receiver indicates the direct heading to the station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "the vertical needle has reached the central position and the TO/FROM indicator reads \"FROM\". The value displayed indicates the direct heading to the station"
+      },
+      {
+        "id": 3,
+        "text": "the horizontal needle has reached the central position and the \"OFF flag\" disappears. The value displayed indicates the direct heading to the station"
+      },
+      {
+        "id": 4,
+        "text": "the vertical needle with a \"TO flag\" deflects fully to the left. The value displayed indicates the shortest route to the station"
+      }
+    ]
+  },
+  {
+    "text": "What angular displacement from the radial is represented by each dot on the VOR indicator?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "2\u00b0",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "10\u00b0"
+      },
+      {
+        "id": 3,
+        "text": "5\u00b0"
+      },
+      {
+        "id": 4,
+        "text": "1\u00b0"
+      }
+    ]
+  },
+  {
+    "text": "The ICAO 1:500000 aeronautical chart contains a reference to \"TRENT 108.45 TRT\". What type of radio navigation aid is this?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "VHF omnidirectional radio range (VOR)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Very high frequency direction-finding station (VDF)"
+      },
+      {
+        "id": 3,
+        "text": "Non-directional radio beacon (NDB)"
+      },
+      {
+        "id": 4,
+        "text": "Instrument landing system (ILS)"
+      }
+    ]
+  },
+  {
+    "text": "During the approach to a VOR station, the OFF flag appears just before the calculated time of crossing. What is the probable reason?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "The aircraft is above the station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "The VOR receiver has broken down"
+      },
+      {
+        "id": 3,
+        "text": "The VOR station has broken down"
+      },
+      {
+        "id": 4,
+        "text": "The TO/FROM indicator is defective"
+      }
+    ]
+  },
+  {
+    "text": "The direction of a VOR radial corresponds to the \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "QDR",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "QDM"
+      },
+      {
+        "id": 3,
+        "text": "QTE"
+      },
+      {
+        "id": 4,
+        "text": "QUJ"
+      }
+    ]
+  },
+  {
+    "text": "What does the identification of a non-directional radio beacon (NDB) consist of?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Two or three Morse code letters",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Two or three Morse code digits"
+      },
+      {
+        "id": 3,
+        "text": "Morse code digits and letters"
+      },
+      {
+        "id": 4,
+        "text": "Voice identification"
+      }
+    ]
+  },
+  {
+    "text": "Non-directional radio beacons (NDBs) generally have a designated operational range of \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "15 NM to 100 NM",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "25 NM maximum"
+      },
+      {
+        "id": 3,
+        "text": "60 NM minimum"
+      },
+      {
+        "id": 4,
+        "text": "far more than 100 NM"
+      }
+    ]
+  },
+  {
+    "text": "Non-directional radio beacons (NDBs) operate in the \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "LW and MW band",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "VHF band"
+      },
+      {
+        "id": 3,
+        "text": "SW band"
+      },
+      {
+        "id": 4,
+        "text": "UHF band"
+      }
+    ]
+  },
+  {
+    "text": "Which airborne navigation equipment can receive an NDB?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Automatic direction-finder (ADF)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Marker receiver"
+      },
+      {
+        "id": 3,
+        "text": "VOR receiver"
+      },
+      {
+        "id": 4,
+        "text": "ILS receiver"
+      }
+    ]
+  },
+  {
+    "text": "Which angle is displayed on the radio-bearing indicator (RBI) of the automatic direction-finder (ADF)? The angle between \u2026",
+    "answers": [
+      {
+        "id": 1,
+        "text": "longitudinal axis of the aircraft and the direction to the tuned NDB",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "true and magnetic north"
+      },
+      {
+        "id": 3,
+        "text": "true north and the tuned NDB"
+      },
+      {
+        "id": 4,
+        "text": "magnetic north and the longitudinal axis of the aircraft"
+      }
+    ]
+  },
+  {
+    "text": "The magnetic heading of an aircraft is 155\u00b0. The relative bearing is 025\u00b0. What is the QDM?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "180\u00b0",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "360\u00b0"
+      },
+      {
+        "id": 3,
+        "text": "130\u00b0"
+      },
+      {
+        "id": 4,
+        "text": "025\u00b0"
+      }
+    ]
+  },
+  {
+    "text": "Which equipment on board an aircraft is necessary for navigation by means of radio direction-finding stations?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "VHF radiotelephone",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Transponder"
+      },
+      {
+        "id": 3,
+        "text": "ADF"
+      },
+      {
+        "id": 4,
+        "text": "VOR receiver"
+      }
+    ]
+  },
+  {
+    "text": "An aircraft flies on a magnetic heading of 090\u00b0. The QDR transmitted is 180\u00b0. Where is the radio direction-finding station?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "To the left of the flight path",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "To the right of the flight path"
+      },
+      {
+        "id": 3,
+        "text": "Ahead"
+      },
+      {
+        "id": 4,
+        "text": "South of the flight path"
+      }
+    ]
+  },
+  {
+    "text": "A QDM of 225\u00b0 is received from an aeronautical station equipped with a VHF direction finder. Where is the aircraft?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "North-east of the station",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "South-west of the station"
+      },
+      {
+        "id": 3,
+        "text": "South-east of the station"
+      },
+      {
+        "id": 4,
+        "text": "South-east of the station"
+      }
+    ]
+  },
+  {
+    "text": "What is the purpose of secondary radar in air traffic control?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Identification of aircraft, and receipt of additional information concerning VFR flights",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Early identification of bad-weather areas"
+      },
+      {
+        "id": 3,
+        "text": "Determination of the true airspeed of aircraft"
+      },
+      {
+        "id": 4,
+        "text": "Position fixing by the pilot"
+      }
+    ]
+  },
+  {
+    "text": "What information can a pilot obtain from a radar-equipped ATC unit?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Position of the aircraft",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "True airspeed of the aircraft"
+      },
+      {
+        "id": 3,
+        "text": "Flight attitude of the aircraft"
+      },
+      {
+        "id": 4,
+        "text": "Intended flight path"
+      }
+    ]
+  },
+  {
+    "text": "In aviation, the abbreviation \"GPS\" stands for:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Global Positioning System",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Geographical Point System"
+      },
+      {
+        "id": 3,
+        "text": "Great Circle Planning Screen"
+      },
+      {
+        "id": 4,
+        "text": "GAT Positioning System"
+      }
+    ]
+  },
+  {
+    "text": "In aviation, the abbreviation \"GNSS\" stands for:",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Global Navigation Satellite System",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Global System for the Standardisation of Terrestrial Navigation"
+      },
+      {
+        "id": 3,
+        "text": "Procedure for Aircraft Positioning on the Apron"
+      },
+      {
+        "id": 4,
+        "text": "Ground-based Radionavigation System"
+      }
+    ]
+  },
+  {
+    "text": "What is a GPS receiver on board an aircraft used for?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Evaluation and display of satellite signals for navigational purposes (e.g. position, course, speed, distance)",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Position fixing by means of on-board radar"
+      },
+      {
+        "id": 3,
+        "text": "Determination of the distance to other aircraft"
+      },
+      {
+        "id": 4,
+        "text": "Evaluation of signals of ground-based radio navigation systems for position and course fixing"
+      }
+    ]
+  }
+]

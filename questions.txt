@@ -1,18 +1,18 @@
-1. Which international organisation is of particular importance to the aeronautical radio service worldwide?
+1.  Which international organisation is of particular importance to the aeronautical radio service worldwide?
 
 A  ITU
 B  IATA
 C  UNESCO
 D  NATO
 
-2. What is the legal basis for the setting-up and operation of radio installations in the Federal Republic of Germany?
+2.  What is the legal basis for the setting-up and operation of radio installations in the Federal Republic of Germany?
 
 A  Telecommunications Act (TKG)
 B  Air Traffic Act (LuftVG)
 C  Convention on International Civil Aviation
 D  Ordinance on the fitting of aircraft with navigational equipment
 
-3. Who is responsible for frequency assignments for the operation of aeronautical stations and aircraft stations in the Federal Republic of Germany?
+3.  Who is responsible for frequency assignments for the operation of aeronautical stations and aircraft stations in the Federal Republic of Germany?
 
 A  Federal Network Agency (Bundesnetzagentur)
 B  Federal Minister of the Interior
@@ -40,29 +40,28 @@ B  Air traffic controller
 C  Chief flying instructor at an airfield
 D  Aviation Safety Oversight Officer
 
-
-7. The  "Radiotelephone  Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
+7.  The  "Radiotelephone  Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
 
 A  in the German language within the Federal Republic of Germany
 B  in the English language for VFR flights
 C  for IFR flights
 D  in the German and English language at any German aeronautical station
 
-8. The "Radiotelephone Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
+8.  The "Radiotelephone Operator's Restricted Certificate (BZF II)" entitles its holder to perform radiotelephony communication …
 
 A  in the German language for VFR flights within the Federal Republic of Germany
 B  in the English language for VFR flights within the Federal Republic of Germany
 C  for IFR flights
 D  in any of the ICAO languages for VFR flights
 
-9. Which operator's certificate is required to perform radiotelephony communication in German and English during a VFR flight?
+9.  Which operator's certificate is required to perform radiotelephony communication in German and English during a VFR flight?
 
 A  BZF I
 B  BZF II
 C  No operator's certificate required since it is a VFR flight
 D  No operator's certificate required if the flight instructor has issued a written flight order
 
-10. What is an aircraft station? A station …
+10.  What is an aircraft station? A station …
 
 A  of the aeronautical mobile service on board an aircraft
 B  on board an aircraft carrier
@@ -181,14 +180,14 @@ B  Atmospheric pressure at aerodrome elevation or at runway threshold
 C  Atmospheric pressure measured at the aerodrome reference point
 D  Atmospheric pressure in reference to the highest obstacle at an aerodrome
 
-27. If you want the altimeter to indicate the altitude above MSL, which atmospheric pressure shall the altimeter be set to?
+27.  If you want the altimeter to indicate the altitude above MSL, which atmospheric pressure shall the altimeter be set to?
 
 A  QNH
 B  QFE
 C  QUJ
 D  QDM
 
-28. If you want the altimeter to indicate the height above aerodrome, which atmospheric pressure shall the altimeter be set to?
+28.  If you want the altimeter to indicate the height above aerodrome, which atmospheric pressure shall the altimeter be set to?
 
 A  QFE
 B  QDR
@@ -208,7 +207,6 @@ A  QDM
 B  QNE
 C  QDR
 D  QTE
-
 
 31.  What does the Q Code "QDR" mean?
 
@@ -273,7 +271,7 @@ B  an Urgency Message
 C  a Flight Safety Message
 D  a Flight Regularity Message
 
-40 A  pilot's message to the ATC service "REQUEST RADAR VECTORING TO CIRCUMFLY THE THUNDERSTORM" is …
+40.  A pilot's message to the ATC service "REQUEST RADAR VECTORING TO CIRCUMFLY THE THUNDERSTORM" is …
 
 A  a Flight Safety Message
 B  a Meteorological Message
@@ -301,7 +299,7 @@ B  lower than "CLEARED TO LAND"
 C  higher than "TRANSMIT FOR BEARING"
 D  higher than "CAUTION CONSTRUCTION WORK LEFT OF TAXIWAY G"
 
-44. What is the correct way of transmitting the time in the aeronautical radio service if there is no possibility of confusion?
+44.  What is the correct way of transmitting the time in the aeronautical radio service if there is no possibility of confusion?
 
 A  Minutes, two digits
 B  Hours and minutes
@@ -357,7 +355,7 @@ B  INFORMATION
 C  RADAR
 D  TOWER
 
-52. What is the call sign of an aeronautical station at a controlled aerodrome for air traffic control in the traffic circuit?
+52.  What is the call sign of an aeronautical station at a controlled aerodrome for air traffic control in the traffic circuit?
 
 A  TOWER
 B  RETRIEVER (RÜCKHOLER)
@@ -448,7 +446,7 @@ B  MONITOR YOUR CALL SIGN
 C  VERIFY YOUR CALL SIGN
 D  CONFIRM YOUR CALL SIGN
 
-65. A message is not completely repeated by a pilot, although this is required by the message type. Which phrase is used to request the pilot to repeat the message?
+65.  A message is not completely repeated by a pilot, although this is required by the message type. Which phrase is used to request the pilot to repeat the message?
 
 A  READ BACK
 B  GO AHEAD
@@ -665,7 +663,7 @@ B  at night in Class C airspace (outside the vicinity of the aerodrome)
 C  at night in Class D airspace (outside the vicinity of the aerodrome)
 D  at night in Class E airspace (outside the vicinity of the aerodrome)
 
-96. Which VFR flights require a pilot to maintain a continuous air-ground voice communication watch on the assigned frequency?
+96.  Which VFR flights require a pilot to maintain a continuous air-ground voice communication watch on the assigned frequency?
 
 A  Flights in Class C airspace
 B  Flights in Class F airspace
@@ -798,7 +796,7 @@ B  When leaving Class D airspace
 C  Only when flying over radio navigation stations (e.g. VOR, NDB)
 D  When entering Class E or F airspace
 
-115. A position report normally comprises the radio call sign of the aircraft, position, time of crossing and altitude. Which of these can be omitted under certain conditions in the case of VFR flights?
+115.  A position report normally comprises the radio call sign of the aircraft, position, time of crossing and altitude. Which of these can be omitted under certain conditions in the case of VFR flights?
 
 A  The time when the message is transmitted at the time of crossing
 B  The position provided it is published on the visual operation chart
@@ -847,14 +845,14 @@ B  Aircraft identification, departure aerodrome, time of departure
 C  Aircraft identification, departure aerodrome, arrival aerodrome
 D  Aircraft identification, time of departure, arrival aerodrome
 
-122. When the term "SCATTERED (SCT)" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:
+122.  When the term "SCATTERED (SCT)" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:
 
 A  3 to 4 oktas
 B  8 oktas
 C  5 to 7 oktas
 D  1 to 2 oktas
 
-123. When the term "BROKEN (BKN)" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:
+123.  When the term "BROKEN (BKN)" is used in radiotelephony in connection with meteorological conditions, the amount of cloud covering the sky is:
 
 A  5 to 7 oktas
 B  1 to 2 oktas
@@ -1099,7 +1097,7 @@ B  121.500 MHz
 C  109.550 MHz
 D  200 kHz
 
-158. Which frequency is operated in 8.33 kHz channel spacing?
+158.  Which frequency is operated in 8.33 kHz channel spacing?
 
 A  134.555 MHz
 B  121.500 MHz
@@ -1763,7 +1761,6 @@ A  longitudinal axis of the aircraft and the direction to the tuned NDB
 B  true and magnetic north
 C  true north and the tuned NDB
 D  magnetic north and the longitudinal axis of the aircraft
-
 
 253.  The magnetic heading of an aircraft is 155°. The relative bearing is 025°. What is the QDM?
 
