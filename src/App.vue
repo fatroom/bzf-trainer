@@ -23,7 +23,6 @@ export default {
   setup() {
     let questionIdx = Math.floor(Math.random() * questions.length);
     let question = ref(questions[questionIdx])
-    question.value = questions[117]
     return {
       question
     }
