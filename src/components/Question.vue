@@ -7,18 +7,11 @@
         {{ answer.text }}
       </li>
     </ol>
+    <button @click="selectedAnswer = undefined; $emit('next-question')">Next</button>
   </div>
 </template>
 
 <script>
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    const temp = array[i];
-    array[i] = array[j];
-    array[j] = temp;
-  }
-}
 
 export default {
   props: {
@@ -27,14 +20,12 @@ export default {
       type: Object
     },
   },
-  setup(props) {
-    shuffleArray(props.question.answers)
-  },
   data() {
     return {
       selectedAnswer: undefined,
     }
   },
+  emits: ['next-question'],
   methods: {
     validateAnswer(answer) {
       this.selectedAnswer = answer
@@ -47,8 +38,8 @@ export default {
           return 'incorrect'
         }
       }
-    }
-  }
+    },
+  },
 }
 </script>
 
@@ -56,6 +47,7 @@ export default {
 li.correct {
   background: green;
 }
+
 li.incorrect {
   background: red;
 }
