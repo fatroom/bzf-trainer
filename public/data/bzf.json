@@ -2571,7 +2571,8 @@
         "id": 4,
         "text": "Non-compulsory reporting point (on-request reporting point)"
       }
-    ]
+    ],
+    "img": "data/117.png"
   },
   {
     "text": "What does this symbol on the visual operation chart mean?",
@@ -2593,7 +2594,8 @@
         "id": 4,
         "text": "Lighted obstacle"
       }
-    ]
+    ],
+    "img": "data/118.png"
   },
   {
     "text": "When may the estimated time of arrival instead of a report of arrival be transmitted to the competent ATC unit?",

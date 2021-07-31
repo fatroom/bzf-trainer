@@ -5,7 +5,7 @@
 <script>
 import Question from './components/Question.vue'
 import {ref} from 'vue'
-import questions from './data/bzf.json'
+import questions from '../public/data/bzf.json'
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {

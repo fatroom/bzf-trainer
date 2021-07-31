@@ -811,14 +811,14 @@ C  Radio call sign of the aircraft, position, altitude
 D  Radio call sign of the aircraft, position, altitude, time
 
 117.  What does this symbol on the visual operation chart mean?
-
+img:  data/117.png
 A  Compulsory reporting point
 B  Aviation obstacle
 C  Radio navigation facility
 D  Non-compulsory reporting point (on-request reporting point)
 
 118.  What does this symbol on the visual operation chart mean?
-
+img:  data/118.png
 A  Non-compulsory reporting point (on-request reporting point)
 B  Compulsory reporting point
 C  Military aerodrome
