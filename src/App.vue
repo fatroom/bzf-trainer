@@ -1,5 +1,5 @@
 <template>
-  <Question :question=question @next-question="selectNextQuestion()"></Question>
+  <Question :question=currentQuestion @next-question="selectNextQuestion()"></Question>
 </template>
 
 <script>
@@ -21,18 +21,30 @@ export default {
   },
 
   setup() {
-    let questionIdx = Math.floor(Math.random() * questions.length);
-    let question = ref(questions[questionIdx])
+    shuffleArray(questions);
+    let questionsRef = ref(questions)
+
     return {
-      question
+      questions: questionsRef
     }
   },
-
+  data() {
+    return {
+      currentQuestionIdx: 0
+    }
+  },
+  computed: {
+    currentQuestion() {
+      return this.questions[this.currentQuestionIdx]
+    }
+  },
   methods: {
     selectNextQuestion() {
-      let questionIdx = Math.floor(Math.random() * questions.length);
-      this.question = questions[questionIdx]
-      shuffleArray(this.question.answers);
+      this.currentQuestionIdx++;
+      if (this.currentQuestionIdx === this.questions.length) {
+        this.currentQuestionIdx = 0;
+      }
+      shuffleArray(this.questions[this.currentQuestionIdx].answers);
     }
   }
 }
