@@ -5,6 +5,10 @@ source = open('questions.txt', 'r').readlines()
 i = 0
 questions = []
 while i < len(source):
+    for j in (i, i+2, i+3, i+4, i+5):
+        if len(source[j].split('  ')) > 2:
+            print(source[j])
+
     question = {
         "text": source[i].split('  ')[1].strip(),
         "answers": [

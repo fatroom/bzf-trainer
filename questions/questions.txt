@@ -588,17 +588,17 @@ D  Yes, by all pilots in the sequence called
 
 85.  Which of the following radiotelephony calls is a "GENERAL CALL"?
 
-A  ALL STATIONS  HAMBURG TOWER … OUT
-B  DEKOF, DIEBS, DKARL  NÜRNBERG GROUND
-C  D8765  BERLIN INFORMATION
+A  ALL STATIONS HAMBURG TOWER … OUT
+B  DEKOF, DIEBS, DKARL NÜRNBERG GROUND
+C  D8765 BERLIN INFORMATION
 D  LUFTHANSA 123, LUFTHANSA 456
 
 86.  Which of the following calls is a "MULTIPLE CALL"?
 
-A  DEABC, DGIAL, DHHIA  LEIPZIG TOWER
+A  DEABC, DGIAL, DHHIA LEIPZIG TOWER
 B  DIENO DELLW
-C  ALL STATIONS  THIS IS DRESDEN TOWER
-D  DEAMM  ERFURT GROUND
+C  ALL STATIONS THIS IS DRESDEN TOWER
+D  DEAMM ERFURT GROUND
 
 87.  Does a "MULTIPLE CALL" require acknowledgement?
 
@@ -1155,7 +1155,7 @@ D  organise Search and Rescue (SAR) services
 
 166.  Who is responsible for air traffic control in the Federal Republic of Germany?
 
-A  Air  navigation  provider  services  authorized  by  the  Federal  Supervisory  Authority  for  Air  Navigation Services (BAF)
+A  Air navigation provider services authorized by the Federal Supervisory Authority for Air Navigation Services (BAF)
 B  Federal Aviation Administration
 C  Aeronautical Authorities of the Lands (federal states)
 D  DFS Deutsche Flugsicherung GmbH
@@ -1547,8 +1547,8 @@ D  around military aerodromes as Class B airspace, around airports as Class C ai
 
 222.  A transit flight through an "HX"-designated control zone outside the hours of operation is possible without clearance if the pilot ...
 
-A  prior to the transit flight obtains confirmation from the competent aerodrome control tower (TWR), outside the  times  TWR  is  operating,  from  the  aerodrome  flight  information  service  INFO  or  from  the  flight
-B  information service FIS, that the control zone is not operational has obtained written authorization from the aerodrome commander
+A  prior to the transit flight obtains confirmation from the competent aerodrome control tower (TWR), outside the times TWR is operating, from the aerodrome flight information service INFO or from the flight information service FIS, that the control zone is not operational
+B  has obtained written authorization from the aerodrome commander
 C  obtains confirmation from the military ATC prior to commencing the transit flight that the control zone is not operational
 D  confirms by means of the AIP that the control zone is not operational
 

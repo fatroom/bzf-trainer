@@ -1852,16 +1852,16 @@
     "answers": [
       {
         "id": 1,
-        "text": "ALL STATIONS",
+        "text": "ALL STATIONS HAMBURG TOWER \u2026 OUT",
         "correct": true
       },
       {
         "id": 2,
-        "text": "DEKOF, DIEBS, DKARL"
+        "text": "DEKOF, DIEBS, DKARL N\u00dcRNBERG GROUND"
       },
       {
         "id": 3,
-        "text": "D8765"
+        "text": "D8765 BERLIN INFORMATION"
       },
       {
         "id": 4,
@@ -1874,7 +1874,7 @@
     "answers": [
       {
         "id": 1,
-        "text": "DEABC, DGIAL, DHHIA",
+        "text": "DEABC, DGIAL, DHHIA LEIPZIG TOWER",
         "correct": true
       },
       {
@@ -1883,11 +1883,11 @@
       },
       {
         "id": 3,
-        "text": "ALL STATIONS"
+        "text": "ALL STATIONS THIS IS DRESDEN TOWER"
       },
       {
         "id": 4,
-        "text": "DEAMM"
+        "text": "DEAMM ERFURT GROUND"
       }
     ]
   },
@@ -3636,7 +3636,7 @@
     "answers": [
       {
         "id": 1,
-        "text": "Air",
+        "text": "Air navigation provider services authorized by the Federal Supervisory Authority for Air Navigation Services (BAF)",
         "correct": true
       },
       {
@@ -4868,12 +4868,12 @@
     "answers": [
       {
         "id": 1,
-        "text": "prior to the transit flight obtains confirmation from the competent aerodrome control tower (TWR), outside the",
+        "text": "prior to the transit flight obtains confirmation from the competent aerodrome control tower (TWR), outside the times TWR is operating, from the aerodrome flight information service INFO or from the flight information service FIS, that the control zone is not operational",
         "correct": true
       },
       {
         "id": 2,
-        "text": "information service FIS, that the control zone is not operational has obtained written authorization from the aerodrome commander"
+        "text": "has obtained written authorization from the aerodrome commander"
       },
       {
         "id": 3,
